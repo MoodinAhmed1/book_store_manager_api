@@ -88,7 +88,6 @@ function renderPagination(totalBooks) {
 }
 
 
-
 let row = document.querySelector('.books-row .row')
 
 function render(bookArray) {
@@ -101,7 +100,7 @@ function render(bookArray) {
 
     bookArray.forEach(book => {
         let cardContainer = document.createElement('div')
-            cardContainer.className = "col-md-3 d-flex justify-content-center"
+            cardContainer.className = "col-xl-3 col-lg-6 col-md-12 d-flex justify-content-center"
         row.append(cardContainer)
 
         let card = document.createElement('div')
@@ -163,6 +162,7 @@ function render(bookArray) {
 
         let addToCartDiv = document.createElement('div')
             addToCartDiv.className = 'btn btn-dark'
+            addToCartDiv.onclick = () => addToCart(book);
         infoDiv.append(addToCartDiv)
 
         let cartIcon = document.createElement('i')
@@ -175,42 +175,41 @@ function render(bookArray) {
         addToCartDiv.append(cartText)
     })
 }
-
     
 function filterBooks() {
-  const query = document.getElementById("searchInput").value.toLowerCase();
-  const genre = document.getElementById("genreSelect").value;
-  const inStockOnly = document.getElementById("inStock").checked;
-  const minPrice = parseFloat(document.getElementById("minPrice").value);
-  const maxPrice = parseFloat(document.getElementById("maxPrice").value);
+const query = document.getElementById("searchInput").value.toLowerCase();
+const genre = document.getElementById("genreSelect").value;
+const inStockOnly = document.getElementById("inStock").checked;
+const minPrice = parseFloat(document.getElementById("minPrice").value);
+const maxPrice = parseFloat(document.getElementById("maxPrice").value);
 
-  const filtered = books.filter(book => {
-    const matchesQuery = [book.title, book.author, book.genre, book.isbn]
-      .some(field => field.toLowerCase().includes(query));
-    const matchesGenre = genre ? book.genre === genre : true;
-    const matchesStock = inStockOnly ? book.inStock : true;
-    const matchesPrice = (!isNaN(minPrice) ? book.price >= minPrice : true) &&
-                         (!isNaN(maxPrice) ? book.price <= maxPrice : true);
+const filtered = books.filter(book => {
+const matchesQuery = [book.title, book.author, book.genre, book.isbn]
+    .some(field => field.toLowerCase().includes(query));
+const matchesGenre = genre ? book.genre === genre : true;
+const matchesStock = inStockOnly ? book.inStock : true;
+const matchesPrice = (!isNaN(minPrice) ? book.price >= minPrice : true) &&
+                        (!isNaN(maxPrice) ? book.price <= maxPrice : true);
 
-    return matchesQuery && matchesGenre && matchesStock && matchesPrice;
-  });
+return matchesQuery && matchesGenre && matchesStock && matchesPrice;
+});
 
-  currentPage = 1;
-    currentBookList = filtered;
-    render(paginate(filtered, currentPage));
-    renderPagination(filtered.length);
+currentPage = 1;
+currentBookList = filtered;
+render(paginate(filtered, currentPage));
+renderPagination(filtered.length);
 }
 
 function clearFilters() {
-    document.getElementById("searchInput").value = "";
-    document.getElementById("genreSelect").value = "";
-    document.getElementById("inStock").checked = false;
-    document.getElementById("minPrice").value = "";
-    document.getElementById("maxPrice").value = "";
-    currentPage = 1;
-    currentBookList = books;
-    render(paginate(books, currentPage));
-    renderPagination(books.length);
+document.getElementById("searchInput").value = "";
+document.getElementById("genreSelect").value = "";
+document.getElementById("inStock").checked = false;
+document.getElementById("minPrice").value = "";
+document.getElementById("maxPrice").value = "";
+currentPage = 1;
+currentBookList = books;
+render(paginate(books, currentPage));
+renderPagination(books.length);
 }
 
 // Event Listeners
@@ -221,8 +220,46 @@ document.getElementById("minPrice").addEventListener("input", filterBooks);
 document.getElementById("maxPrice").addEventListener("input", filterBooks);
 
 
+function updateCartUI() {
+    const cart = JSON.parse(localStorage.getItem('cart')) || [];
+    document.getElementById('cartCount').textContent = cart.length;
+
+    const cartItems = document.getElementById('cartItems');
+    cartItems.innerHTML = '';
+    if (cart.length === 0) {
+        cartItems.innerHTML = '<p>Your cart is empty.</p>';
+        return;
+    }      
+
+    cart.forEach(item => {
+    const div = document.createElement('div');
+    div.className = 'd-flex justify-content-between align-items-center border-bottom py-2';
+    div.innerHTML = `
+        <div>
+        <strong>${item.title}</strong><br>
+        <small>by ${item.author}</small>
+        </div>
+        <div>$${item.price.toFixed(2)}</div>
+    `;
+    cartItems.appendChild(div);
+    });
+}
+
+function addToCart(book) {
+    const cart = JSON.parse(localStorage.getItem('cart')) || [];
+    cart.push(book);
+    localStorage.setItem('cart', JSON.stringify(cart));
+    updateCartUI();
+}
+
+function checkout() {
+  alert('Proceeding to checkout...');
+}
+
+updateCartUI();
+
 setTimeout(() => {
-    currentBookList = books;
-    render(paginate(books, currentPage));
-    renderPagination(books.length);
+currentBookList = books;
+render(paginate(books, currentPage));
+renderPagination(books.length);
 }, 1000);
