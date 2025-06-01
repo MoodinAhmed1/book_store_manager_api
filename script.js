@@ -3,7 +3,7 @@ let books = []
 //function to load books
 async function loadBooksFromFile() {
     try {
-        const response = await fetch('books.json'); // path to my JSON file
+        const response = await fetch('./books.json'); // path to my JSON file
         books = await response.json();
 
         console.log("Books loaded:", books);
@@ -262,4 +262,4 @@ setTimeout(() => {
 currentBookList = books;
 render(paginate(books, currentPage));
 renderPagination(books.length);
-}, 3000);
+}, 1000);
