@@ -135,9 +135,22 @@ function render(bookArray) {
             infoDiv.className = "w-100 d-flex justify-content-between"
         cardBody.append(infoDiv)
 
-        let viewMoreDiv = document.createElement('div')
-            viewMoreDiv.className = 'btn btn-dark'
-        infoDiv.append(viewMoreDiv)
+        let viewMoreDiv = document.createElement('div');
+            viewMoreDiv.className = 'btn btn-dark';
+            viewMoreDiv.setAttribute('data-bs-toggle', 'modal');
+            viewMoreDiv.setAttribute('data-bs-target', '#bookModal');
+            viewMoreDiv.addEventListener('click', () => {
+                document.getElementById('bookModalLabel').textContent = book.title;
+                document.getElementById('modalImage').src = book.image;
+                document.getElementById('modalAuthor').textContent = `by ${book.author}`;
+                document.getElementById('modalDescription').textContent = book.description;
+                document.getElementById('modalGenre').textContent = book.genre;
+                document.getElementById('modalPrice').textContent = book.price.toFixed(2);
+                document.getElementById('modalISBN').textContent = book.isbn;
+                document.getElementById('modalStock').textContent = book.inStock;
+            });
+        infoDiv.append(viewMoreDiv);
+
 
         let eyeIcon = document.createElement('i')
             eyeIcon.className = "bi bi-eye-fill"
