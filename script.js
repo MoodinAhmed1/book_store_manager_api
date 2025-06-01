@@ -15,6 +15,80 @@ async function loadBooksFromFile() {
 
 loadBooksFromFile(); //loads books
 
+let currentPage = 1;
+const booksPerPage = 8;
+let currentBookList = []; // Will hold filtered or full books
+
+function paginate(array, page = 1, perPage = booksPerPage) {
+    const start = (page - 1) * perPage;
+    return array.slice(start, start + perPage);
+}
+
+function renderPagination(totalBooks) {
+    const totalPages = Math.ceil(totalBooks / booksPerPage);
+    const pagination = document.getElementById("pagination");
+    pagination.innerHTML = "";
+
+    const maxVisiblePages = 5;
+    let startPage = Math.max(currentPage - Math.floor(maxVisiblePages / 2), 1);
+    let endPage = startPage + maxVisiblePages - 1;
+
+    if (endPage > totalPages) {
+        endPage = totalPages;
+        startPage = Math.max(endPage - maxVisiblePages + 1, 1);
+    }
+
+    // Prev button
+    const prevLi = document.createElement("li");
+    prevLi.className = `page-item ${currentPage === 1 ? "disabled" : ""}`;
+    const prevBtn = document.createElement("button");
+    prevBtn.className = "page-link";
+    prevBtn.textContent = "Previous";
+    prevBtn.addEventListener("click", () => {
+        if (currentPage > 1) {
+            currentPage--;
+            render(paginate(currentBookList, currentPage));
+            renderPagination(currentBookList.length);
+        }
+    });
+    prevLi.appendChild(prevBtn);
+    pagination.appendChild(prevLi);
+
+    // Numbered buttons
+    for (let i = startPage; i <= endPage; i++) {
+        const li = document.createElement("li");
+        li.className = `page-item ${i === currentPage ? "active" : ""}`;
+        const btn = document.createElement("button");
+        btn.className = "page-link";
+        btn.innerText = i;
+        btn.addEventListener("click", () => {
+            currentPage = i;
+            render(paginate(currentBookList, currentPage));
+            renderPagination(currentBookList.length);
+        });
+        li.appendChild(btn);
+        pagination.appendChild(li);
+    }
+
+    // Next button
+    const nextLi = document.createElement("li");
+    nextLi.className = `page-item ${currentPage === totalPages ? "disabled" : ""}`;
+    const nextBtn = document.createElement("button");
+    nextBtn.className = "page-link";
+    nextBtn.textContent = "Next";
+    nextBtn.addEventListener("click", () => {
+        if (currentPage < totalPages) {
+            currentPage++;
+            render(paginate(currentBookList, currentPage));
+            renderPagination(currentBookList.length);
+        }
+    });
+    nextLi.appendChild(nextBtn);
+    pagination.appendChild(nextLi);
+}
+
+
+
 let row = document.querySelector('.books-row .row')
 
 function render(bookArray) {
@@ -108,16 +182,22 @@ function filterBooks() {
     return matchesQuery && matchesGenre && matchesStock && matchesPrice;
   });
 
-  render(filtered);
+  currentPage = 1;
+    currentBookList = filtered;
+    render(paginate(filtered, currentPage));
+    renderPagination(filtered.length);
 }
 
 function clearFilters() {
-  document.getElementById("searchInput").value = "";
-  document.getElementById("genreSelect").value = "";
-  document.getElementById("inStock").checked = false;
-  document.getElementById("minPrice").value = "";
-  document.getElementById("maxPrice").value = "";
-  renderBooks(books);
+    document.getElementById("searchInput").value = "";
+    document.getElementById("genreSelect").value = "";
+    document.getElementById("inStock").checked = false;
+    document.getElementById("minPrice").value = "";
+    document.getElementById("maxPrice").value = "";
+    currentPage = 1;
+    currentBookList = books;
+    render(paginate(books, currentPage));
+    renderPagination(books.length);
 }
 
 // Event Listeners
@@ -128,6 +208,8 @@ document.getElementById("minPrice").addEventListener("input", filterBooks);
 document.getElementById("maxPrice").addEventListener("input", filterBooks);
 
 
-setTimeout(()=> {
-    render(books)
-}, 1000)
+setTimeout(() => {
+    currentBookList = books;
+    render(paginate(books, currentPage));
+    renderPagination(books.length);
+}, 1000);
