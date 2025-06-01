@@ -262,4 +262,4 @@ setTimeout(() => {
 currentBookList = books;
 render(paginate(books, currentPage));
 renderPagination(books.length);
-}, 1000);
+}, 3000);
