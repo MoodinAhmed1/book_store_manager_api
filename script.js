@@ -17,8 +17,15 @@ loadBooksFromFile(); //loads books
 
 let row = document.querySelector('.books-row .row')
 
-function render(books) {
-    books.forEach(book => {
+function render(bookArray) {
+    row.innerHTML = "";
+
+    if (bookArray.length === 0) {
+        row.innerHTML = "<p>No books found.</p>";
+        return;
+    }
+
+    bookArray.forEach(book => {
         let cardContainer = document.createElement('div')
             cardContainer.className = "col-md-3 d-flex justify-content-center"
         row.append(cardContainer)
@@ -81,6 +88,45 @@ function render(books) {
         addToCartDiv.append(cartText)
     })
 }
+
+    
+function filterBooks() {
+  const query = document.getElementById("searchInput").value.toLowerCase();
+  const genre = document.getElementById("genreSelect").value;
+  const inStockOnly = document.getElementById("inStock").checked;
+  const minPrice = parseFloat(document.getElementById("minPrice").value);
+  const maxPrice = parseFloat(document.getElementById("maxPrice").value);
+
+  const filtered = books.filter(book => {
+    const matchesQuery = [book.title, book.author, book.genre, book.isbn]
+      .some(field => field.toLowerCase().includes(query));
+    const matchesGenre = genre ? book.genre === genre : true;
+    const matchesStock = inStockOnly ? book.inStock : true;
+    const matchesPrice = (!isNaN(minPrice) ? book.price >= minPrice : true) &&
+                         (!isNaN(maxPrice) ? book.price <= maxPrice : true);
+
+    return matchesQuery && matchesGenre && matchesStock && matchesPrice;
+  });
+
+  render(filtered);
+}
+
+function clearFilters() {
+  document.getElementById("searchInput").value = "";
+  document.getElementById("genreSelect").value = "";
+  document.getElementById("inStock").checked = false;
+  document.getElementById("minPrice").value = "";
+  document.getElementById("maxPrice").value = "";
+  renderBooks(books);
+}
+
+// Event Listeners
+document.getElementById("searchInput").addEventListener("input", filterBooks);
+document.getElementById("genreSelect").addEventListener("change", filterBooks);
+document.getElementById("inStock").addEventListener("change", filterBooks);
+document.getElementById("minPrice").addEventListener("input", filterBooks);
+document.getElementById("maxPrice").addEventListener("input", filterBooks);
+
 
 setTimeout(()=> {
     render(books)
