@@ -1,0 +1,2002 @@
+[
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "fiction",
+    "isbn": "OL47044678M",
+    "image": "https://covers.openlibrary.org/b/olid/OL47044678M-M.jpg",
+    "price": 19.99,
+    "inStock": false,
+    "description": "Pride and Prejudice is an 1813 novel of manners written by Jane Austen. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness.\r\n\r\nMr. Bennet, owner of the Longbourn estate in Hertfordshire, has five daughters, but his property is entailed and can only be passed to a male heir. His wife also lacks an inheritance, so his family faces becoming very poor upon his death. Thus, it is imperative that at least one of the girls marry well to support the others, which is a motivation that drives the plot."
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "genre": "fiction",
+    "isbn": "OL31754751M",
+    "image": "https://covers.openlibrary.org/b/olid/OL31754751M-M.jpg",
+    "price": 10.99,
+    "inStock": true,
+    "description": "Alice's Adventures in Wonderland (commonly Alice in Wonderland) is an 1865 English children's novel by Lewis Carroll. A young girl named Alice falls through a rabbit hole into a fantasy world of anthropomorphic creatures. It is seen as an example of the literary nonsense genre.\r\n\r\nOne of the best-known works of Victorian literature, its narrative, structure, characters and imagery have had huge influence on popular culture and literature, especially in the fantasy genre."
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "genre": "fiction",
+    "isbn": "OL38586477M",
+    "image": "https://covers.openlibrary.org/b/olid/OL38586477M-M.jpg",
+    "price": 24.99,
+    "inStock": false,
+    "description": "Wuthering Heights is an 1847 novel by Emily Brontë, initially published under the pseudonym Ellis Bell. It concerns two families of the landed gentry living on the West Yorkshire moors, the Earnshaws and the Lintons, and their turbulent relationships with Earnshaw's adopted son, Heathcliff. The novel was influenced by Romanticism and Gothic fiction."
+  },
+  {
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "genre": "fiction",
+    "isbn": "OL7062714M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7062714M-M.jpg",
+    "price": 11.99,
+    "inStock": true,
+    "description": "Adventures of Huckleberry Finn or as it is known in more recent editions, The Adventures of Huckleberry Finn, is a novel by American author Mark Twain, which was first published in the United Kingdom in December 1884 and in the United States in February 1885.\r\n\r\nCommonly named among the Great American Novels, the work is among the first in major American literature to be written throughout in vernacular English, characterized by local color regionalism. It is told in the first person by Huckleberry \"Huck\" Finn, the narrator of two other Twain novels (Tom Sawyer Abroad and Tom Sawyer, Detective) and a friend of Tom Sawyer. It is a direct sequel to The Adventures of Tom Sawyer."
+  },
+  {
+    "title": "Emma",
+    "author": "Jane Austen",
+    "genre": "fiction",
+    "isbn": "OL13573615M",
+    "image": "https://covers.openlibrary.org/b/olid/OL13573615M-M.jpg",
+    "price": 13.99,
+    "inStock": true,
+    "description": "Emma, by Jane Austen, is a novel about youthful hubris and the perils of misconstrued romance. The novel was first published in December 1815. As in her other novels, Austen explores the concerns and difficulties of genteel women living in Georgian-Regency England; she also creates a lively comedy of manners among her characters. Before she began the novel, Austen wrote, \"I am going to take a heroine whom no one but myself will much like.\" In the very first sentence she introduces the title character as \"Emma Woodhouse, handsome, clever, and rich.\" Emma, however, is also rather spoiled, headstrong, and self-satisfied; she greatly overestimates her own matchmaking abilities; she is blind to the dangers of meddling in other people's lives; and her imagination and perceptions often lead her astray."
+  },
+  {
+    "title": "Frankenstein or The Modern Prometheus",
+    "author": "Mary Shelley",
+    "genre": "fiction",
+    "isbn": "OL35649409M",
+    "image": "https://covers.openlibrary.org/b/olid/OL35649409M-M.jpg",
+    "price": 16.99,
+    "inStock": true,
+    "description": "*Frankenstein; or, The Modern Prometheus* is an 1818 novel written by English author Mary Shelley. Frankenstein tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment. Shelley started writing the story when she was 18, and the first edition was published anonymously in London on 1 January 1818, when she was 20. Her name first appeared in the second edition, which was published in Paris in 1821."
+  },
+  {
+    "title": "The Wonderful Wizard of Oz",
+    "author": "L. Frank Baum",
+    "genre": "fiction",
+    "isbn": "OL8155451M",
+    "image": "https://covers.openlibrary.org/b/olid/OL8155451M-M.jpg",
+    "price": 13.99,
+    "inStock": true,
+    "description": "Over a century after its initial publication, The Wonderful Wizard of Oz is still captivating the hearts of countless readers. Come adventure with Dorothy and her three friends: the Scarecrow, the Tin Woodman, and the Cowardly Lion, as they follow the Yellow Brick Road to the Emerald City for an audience with the Great Oz, the mightiest Wizard in the land, and the only one that can return Dorothy to her home in Kansas."
+  },
+  {
+    "title": "Sense and Sensibility",
+    "author": "Jane Austen",
+    "genre": "fiction",
+    "isbn": "OL14041582M",
+    "image": "https://covers.openlibrary.org/b/olid/OL14041582M-M.jpg",
+    "price": 12.99,
+    "inStock": true,
+    "description": "When Mr. Dashwood dies, he must leave the bulk of his estate to the son by his first marriage, which leaves his second wife and three daughters (Elinor, Marianne, and Margaret) in straitened circumstances. They are taken in by a kindly cousin, but their lack of fortune affects the marriageability of both practical Elinor and romantic Marianne. When Elinor forms an attachment for the wealthy Edward Ferrars, his family disapproves and separates them. And though Mrs. Jennings tries to match the worthy (and rich) Colonel Brandon to her, Marianne finds the dashing and fiery Willoughby more to her taste. Both relationships are sorely tried. But this is a romance, and through the hardships and heartbreak, true love and a happy ending will find their way for both the sister who is all sense and the one who is all sensibility. - Publisher."
+  },
+  {
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "genre": "fiction",
+    "isbn": "OL40812029M",
+    "image": "https://covers.openlibrary.org/b/olid/OL40812029M-M.jpg",
+    "price": 24.99,
+    "inStock": false,
+    "description": "Traditionally considered a coming-of-age story, Treasure Island is an adventure tale known for its atmosphere, characters and action, and also as a wry commentary on the ambiguity of morality — as seen in Long John Silver — unusual for children's literature then and now. It is one of the most frequently dramatized of all novels. The influence of Treasure Island on popular perceptions of pirates is enormous, including treasure maps marked with an \"X\", schooners, the Black Spot, tropical islands, and one-legged seamen carrying parrots on their shoulders"
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "genre": "fiction",
+    "isbn": "OL27300715M",
+    "image": "https://covers.openlibrary.org/b/olid/OL27300715M-M.jpg",
+    "price": 9.99,
+    "inStock": true,
+    "description": "Louisa May Alcotts classic novel, set during the Civil War, has always captivated even the most reluctant readers. Little girls, especially, love following the adventures of the four March sisters--Meg, Beth, Amy, and most of all, the tomboy Jo--as they experience the joys and disappointments, tragedies and triumphs, of growing up. This simpler version captures all the charm and warmth of the original."
+  },
+  {
+    "title": "Frankenstein or The Modern Prometheus",
+    "author": "Mary Shelley",
+    "genre": "science",
+    "isbn": "OL35649409M",
+    "image": "https://covers.openlibrary.org/b/olid/OL35649409M-M.jpg",
+    "price": 12.99,
+    "inStock": false,
+    "description": "*Frankenstein; or, The Modern Prometheus* is an 1818 novel written by English author Mary Shelley. Frankenstein tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment. Shelley started writing the story when she was 18, and the first edition was published anonymously in London on 1 January 1818, when she was 20. Her name first appeared in the second edition, which was published in Paris in 1821."
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "science",
+    "isbn": "OL6504102M",
+    "image": "https://covers.openlibrary.org/b/olid/OL6504102M-M.jpg",
+    "price": 10.99,
+    "inStock": true,
+    "description": "Originally published in 1932, this outstanding work of literature is more crucial and relevant today than ever before. Cloning, feel-good drugs, antiaging programs, and total social control through politics, programming, and media -- has Aldous Huxley accurately predicted our future? With a storyteller's genius, he weaves these ethical controversies in a compelling narrative that dawns in the year 632 AF (After Ford, the deity). When Lenina and Bernard visit a savage reservation, we experience how Utopia can destroy humanity. A powerful work of speculative fiction that has enthralled and terrified readers for generations, Brave New World is both a warning to be heeded and thought-provoking yet satisfying entertainment. - Container."
+  },
+  {
+    "title": "The Invisible Man",
+    "author": "H. G. Wells",
+    "genre": "science",
+    "isbn": "OL24269941M",
+    "image": "https://covers.openlibrary.org/b/olid/OL24269941M-M.jpg",
+    "price": 12.99,
+    "inStock": true,
+    "description": "This book is the story of Griffin, a scientist who creates a serum to render himself invisible, and his descent into madness that follows."
+  },
+  {
+    "title": "De rerum natura",
+    "author": "Titus Lucretius Carus",
+    "genre": "science",
+    "isbn": "OL7870148M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7870148M-M.jpg",
+    "price": 7.99,
+    "inStock": true,
+    "description": "This is regarded as a seminal text of Epicurean science and philosophy. Epicurians discarded both the idea of immortality and the superstitious worship of wilful gods for a life of serene contentment in the available pleasures of nature. Lucretius (c100-c55BC), in elucidating this belief, steers the reader through an extraordinary breadth of subject matter, ranging from the indestructibility of atoms and the discovery of fire to the folly of romantic love and the phenomena of clouds and rainstorms."
+  },
+  {
+    "title": "Le Tour du Monde en Quatre-Vingts Jours",
+    "author": "Jules Verne",
+    "genre": "science",
+    "isbn": "OL7050533M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7050533M-M.jpg",
+    "price": 8.99,
+    "inStock": false,
+    "description": "Phileas Fogg, a very punctual man had broken into an argument while conversing about the recent bank robbery. To keep his word of proving that he would travel around the world in 80 days and win the bet, he sets on a long trip, where he is joined by a few other people on the way. A wonderful adventure is about to begin!"
+  },
+  {
+    "title": "Two years before the mast",
+    "author": "Richard Henry Dana",
+    "genre": "science",
+    "isbn": "OL6986131M",
+    "image": "https://covers.openlibrary.org/b/olid/OL6986131M-M.jpg",
+    "price": 14.99,
+    "inStock": true,
+    "description": "*Two Years before the Mast* is but an episode in the life of Richard Henry Dana, Jr., yet the narrative in which he details the experiences of that period is, perhaps, his chief claim to a wide remembrance. \r\n\r\nHis services in fields other than literary occupied the greater part of his life. Dana was a well known and respected lawyer, a stalwart abolitionist, and an advocate for the rights of common sailors. He and his wife, Sarah, had many friends among New England's cultural elite, including Henry Wadsworth and Fanny (Appleton) Longfellow and the artist Washington Allston and his wife, Martha Remington (Dana), who was Richard's aunt. \r\n\r\n*Two Years before the Mast* appeared in 1840, while its author was still a law student. Though at the time it created no great stir in the United States, it was most favorably received in England, where it paved the way for many pleasant and valuable acquaintances. The following year, Dana produced *The Seaman's Friend*, a treatise on practical seamanship. Later, he wrote a a short account of an 1859 trip to Cuba in 1859. He was a copious letter-writer and kept journals of his travels and every day life. Yet, long before his death, he had seen the narrative of his sailor days recognized as an American classic. \r\n\r\nTime has not diminished its reputation. We read it today not merely for its simple, unpretentious style, but for its clear picture of a life at sea previous to the era of steam navigation and for its graphic description of conditions in California before visions of gold sent the long lines of \"prairie schooners\" drifting across the plains to unfold the hidden destiny of the West."
+  },
+  {
+    "title": "Houghton Mifflin Science California",
+    "author": "Houghton Mifflin Company Staff",
+    "genre": "science",
+    "isbn": "OL37452736M",
+    "image": "https://covers.openlibrary.org/b/olid/OL37452736M-M.jpg",
+    "price": 11.99,
+    "inStock": false,
+    "description": "No description available"
+  },
+  {
+    "title": "History",
+    "author": "Herodotus",
+    "genre": "science",
+    "isbn": "OL6927336M",
+    "image": "https://covers.openlibrary.org/b/olid/OL6927336M-M.jpg",
+    "price": 21.99,
+    "inStock": false,
+    "description": "One of the earliest histories of the western world still extant, this gives a contemporary account of the Greco-Persian wars of the fifth century BCE with the rise of the Achaemenid Empire under Cyrus the Great."
+  },
+  {
+    "title": "Houghton Mifflin Science Leveled Readers",
+    "author": "Houghton Mifflin Company Staff",
+    "genre": "science",
+    "isbn": "OL37449397M",
+    "image": "https://covers.openlibrary.org/b/olid/OL37449397M-M.jpg",
+    "price": 12.99,
+    "inStock": true,
+    "description": "No description available"
+  },
+  {
+    "title": "The principall navigations, voiages, and discoveries of the English nations",
+    "author": "Richard Hakluyt",
+    "genre": "science",
+    "isbn": "OL22890584M",
+    "image": "https://covers.openlibrary.org/b/olid/OL22890584M-M.jpg",
+    "price": 20.99,
+    "inStock": false,
+    "description": "The principal navigations, voyages, traffiques & discoveries of the English nation made by sea or over-land to the remote and farthest distant quarters of the earth at any time within the compasse of these 1600 yeeres."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "history",
+    "isbn": "OL47044678M",
+    "image": "https://covers.openlibrary.org/b/olid/OL47044678M-M.jpg",
+    "price": 22.99,
+    "inStock": false,
+    "description": "Pride and Prejudice is an 1813 novel of manners written by Jane Austen. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness.\r\n\r\nMr. Bennet, owner of the Longbourn estate in Hertfordshire, has five daughters, but his property is entailed and can only be passed to a male heir. His wife also lacks an inheritance, so his family faces becoming very poor upon his death. Thus, it is imperative that at least one of the girls marry well to support the others, which is a motivation that drives the plot."
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "genre": "history",
+    "isbn": "OL31754751M",
+    "image": "https://covers.openlibrary.org/b/olid/OL31754751M-M.jpg",
+    "price": 24.99,
+    "inStock": false,
+    "description": "Alice's Adventures in Wonderland (commonly Alice in Wonderland) is an 1865 English children's novel by Lewis Carroll. A young girl named Alice falls through a rabbit hole into a fantasy world of anthropomorphic creatures. It is seen as an example of the literary nonsense genre.\r\n\r\nOne of the best-known works of Victorian literature, its narrative, structure, characters and imagery have had huge influence on popular culture and literature, especially in the fantasy genre."
+  },
+  {
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "genre": "history",
+    "isbn": "OL7062714M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7062714M-M.jpg",
+    "price": 6.99,
+    "inStock": false,
+    "description": "Adventures of Huckleberry Finn or as it is known in more recent editions, The Adventures of Huckleberry Finn, is a novel by American author Mark Twain, which was first published in the United Kingdom in December 1884 and in the United States in February 1885.\r\n\r\nCommonly named among the Great American Novels, the work is among the first in major American literature to be written throughout in vernacular English, characterized by local color regionalism. It is told in the first person by Huckleberry \"Huck\" Finn, the narrator of two other Twain novels (Tom Sawyer Abroad and Tom Sawyer, Detective) and a friend of Tom Sawyer. It is a direct sequel to The Adventures of Tom Sawyer."
+  },
+  {
+    "title": "Frankenstein or The Modern Prometheus",
+    "author": "Mary Shelley",
+    "genre": "history",
+    "isbn": "OL35649409M",
+    "image": "https://covers.openlibrary.org/b/olid/OL35649409M-M.jpg",
+    "price": 23.99,
+    "inStock": true,
+    "description": "*Frankenstein; or, The Modern Prometheus* is an 1818 novel written by English author Mary Shelley. Frankenstein tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment. Shelley started writing the story when she was 18, and the first edition was published anonymously in London on 1 January 1818, when she was 20. Her name first appeared in the second edition, which was published in Paris in 1821."
+  },
+  {
+    "title": "The Wonderful Wizard of Oz",
+    "author": "L. Frank Baum",
+    "genre": "history",
+    "isbn": "OL8155451M",
+    "image": "https://covers.openlibrary.org/b/olid/OL8155451M-M.jpg",
+    "price": 16.99,
+    "inStock": true,
+    "description": "Over a century after its initial publication, The Wonderful Wizard of Oz is still captivating the hearts of countless readers. Come adventure with Dorothy and her three friends: the Scarecrow, the Tin Woodman, and the Cowardly Lion, as they follow the Yellow Brick Road to the Emerald City for an audience with the Great Oz, the mightiest Wizard in the land, and the only one that can return Dorothy to her home in Kansas."
+  },
+  {
+    "title": "Sense and Sensibility",
+    "author": "Jane Austen",
+    "genre": "history",
+    "isbn": "OL14041582M",
+    "image": "https://covers.openlibrary.org/b/olid/OL14041582M-M.jpg",
+    "price": 11.99,
+    "inStock": true,
+    "description": "When Mr. Dashwood dies, he must leave the bulk of his estate to the son by his first marriage, which leaves his second wife and three daughters (Elinor, Marianne, and Margaret) in straitened circumstances. They are taken in by a kindly cousin, but their lack of fortune affects the marriageability of both practical Elinor and romantic Marianne. When Elinor forms an attachment for the wealthy Edward Ferrars, his family disapproves and separates them. And though Mrs. Jennings tries to match the worthy (and rich) Colonel Brandon to her, Marianne finds the dashing and fiery Willoughby more to her taste. Both relationships are sorely tried. But this is a romance, and through the hardships and heartbreak, true love and a happy ending will find their way for both the sister who is all sense and the one who is all sensibility. - Publisher."
+  },
+  {
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "genre": "history",
+    "isbn": "OL40812029M",
+    "image": "https://covers.openlibrary.org/b/olid/OL40812029M-M.jpg",
+    "price": 18.99,
+    "inStock": true,
+    "description": "Traditionally considered a coming-of-age story, Treasure Island is an adventure tale known for its atmosphere, characters and action, and also as a wry commentary on the ambiguity of morality — as seen in Long John Silver — unusual for children's literature then and now. It is one of the most frequently dramatized of all novels. The influence of Treasure Island on popular perceptions of pirates is enormous, including treasure maps marked with an \"X\", schooners, the Black Spot, tropical islands, and one-legged seamen carrying parrots on their shoulders"
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "genre": "history",
+    "isbn": "OL27300715M",
+    "image": "https://covers.openlibrary.org/b/olid/OL27300715M-M.jpg",
+    "price": 17.99,
+    "inStock": true,
+    "description": "Louisa May Alcotts classic novel, set during the Civil War, has always captivated even the most reluctant readers. Little girls, especially, love following the adventures of the four March sisters--Meg, Beth, Amy, and most of all, the tomboy Jo--as they experience the joys and disappointments, tragedies and triumphs, of growing up. This simpler version captures all the charm and warmth of the original."
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "genre": "history",
+    "isbn": "OL40236082M",
+    "image": "https://covers.openlibrary.org/b/olid/OL40236082M-M.jpg",
+    "price": 21.99,
+    "inStock": false,
+    "description": "Charles Bovary, médecin de campagne, veuf d'une mégère, fait lors d'une tournée la rencontre du père Rouault et de sa fille, Emma. Après leur mariage, Emma reste insatisfaite et rêve d'une nouvelle vie. Son premier amant lui donne le goût du luxe et fait miroiter un avenir à deux avant de l'abandonner. Une fois remise, Emma continue à faire de folles dépenses, qui peu à peu la mènent à la ruine et au déshonneur. (Résumé par Nadine)\r\n\r\n\r\n----------\r\nSee also:\r\n\r\n - [Madame Bovary: 1/2](https://openlibrary.org/works/OL29255465W/Madame_Bovary_1_2)\r\n - [Madame Bovary: 2/2](https://openlibrary.org/works/OL29255459W/Madame_Bovary_2_2)\r\n\r\n----------\r\n\r\n\r\nAlso contained in:\r\n\r\n - [The Best Known Works of Gustave Flaubert][1]\r\n - [Pages choisies des grands écrivains](https://openlibrary.org/works/OL15580389W)\r\n\r\n  [1]: https://openlibrary.org/works/OL893933W/The_best_known_works_of_Gustave_Flaubert"
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "genre": "history",
+    "isbn": "OL45791004M",
+    "image": "https://covers.openlibrary.org/b/olid/OL45791004M-M.jpg",
+    "price": 11.99,
+    "inStock": true,
+    "description": "Great Expectations is the thirteenth novel by Charles Dickens and his penultimate completed novel. It depicts the education of an orphan nicknamed Pip (the book is a bildungsroman; a coming-of-age story). It is Dickens' second novel, after David Copperfield, to be fully narrated in the first person. The novel was first published as a serial in Dickens's weekly periodical All the Year Round, from 1 December 1860 to August 1861. In October 1861, Chapman and Hall published the novel in three volumes.\r\n\r\nThe novel is set in Kent and London in the early to mid-19th century and contains some of Dickens's most celebrated scenes, starting in a graveyard, where the young Pip is accosted by the escaped convict Abel Magwitch. Great Expectations is full of extreme imagery – poverty, prison ships and chains, and fights to the death – and has a colourful cast of characters who have entered popular culture. These include the eccentric Miss Havisham, the beautiful but cold Estella, and Joe, the unsophisticated and kind blacksmith. Dickens's themes include wealth and poverty, love and rejection, and the eventual triumph of good over evil. Great Expectations, which is popular both with readers and literary critics, has been translated into many languages and adapted numerous times into various media."
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "genre": "fantasy",
+    "isbn": "OL31754751M",
+    "image": "https://covers.openlibrary.org/b/olid/OL31754751M-M.jpg",
+    "price": 13.99,
+    "inStock": false,
+    "description": "Alice's Adventures in Wonderland (commonly Alice in Wonderland) is an 1865 English children's novel by Lewis Carroll. A young girl named Alice falls through a rabbit hole into a fantasy world of anthropomorphic creatures. It is seen as an example of the literary nonsense genre.\r\n\r\nOne of the best-known works of Victorian literature, its narrative, structure, characters and imagery have had huge influence on popular culture and literature, especially in the fantasy genre."
+  },
+  {
+    "title": "The Wonderful Wizard of Oz",
+    "author": "L. Frank Baum",
+    "genre": "fantasy",
+    "isbn": "OL8155451M",
+    "image": "https://covers.openlibrary.org/b/olid/OL8155451M-M.jpg",
+    "price": 5.99,
+    "inStock": true,
+    "description": "Over a century after its initial publication, The Wonderful Wizard of Oz is still captivating the hearts of countless readers. Come adventure with Dorothy and her three friends: the Scarecrow, the Tin Woodman, and the Cowardly Lion, as they follow the Yellow Brick Road to the Emerald City for an audience with the Great Oz, the mightiest Wizard in the land, and the only one that can return Dorothy to her home in Kansas."
+  },
+  {
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "genre": "fantasy",
+    "isbn": "OL40812029M",
+    "image": "https://covers.openlibrary.org/b/olid/OL40812029M-M.jpg",
+    "price": 20.99,
+    "inStock": false,
+    "description": "Traditionally considered a coming-of-age story, Treasure Island is an adventure tale known for its atmosphere, characters and action, and also as a wry commentary on the ambiguity of morality — as seen in Long John Silver — unusual for children's literature then and now. It is one of the most frequently dramatized of all novels. The influence of Treasure Island on popular perceptions of pirates is enormous, including treasure maps marked with an \"X\", schooners, the Black Spot, tropical islands, and one-legged seamen carrying parrots on their shoulders"
+  },
+  {
+    "title": "Gulliver's Travels",
+    "author": "Jonathan Swift",
+    "genre": "fantasy",
+    "isbn": "OL26445784M",
+    "image": "https://covers.openlibrary.org/b/olid/OL26445784M-M.jpg",
+    "price": 5.99,
+    "inStock": false,
+    "description": "A parody of traveler’s tales and a satire of human nature, “Gulliver’s Travels” is Jonathan Swift’s most famous work which was first published in 1726. An immensely popular tale ever since its original publication, “Gulliver’s Travels” is the story of its titular character, Lemuel Gulliver, a man who loves to travel. A series of four journeys are detailed in which Gulliver finds himself in a number of amusing and precarious situations. In the first voyage, Gulliver is imprisoned by a race of tiny people, the Lilliputians, when following a shipwreck he is washed upon the shores of their island country. In his second voyage Gulliver finds himself abandoned in Brobdingnag, a land of giants, where he is exhibited for their amusement. In his third voyage, Gulliver once again finds himself marooned; fortunately he is rescued by the flying island of Laputa, a kingdom devoted to the arts of music and mathematics. He subsequently travels to the surrounding lands of Balnibarbi, Luggnagg, Glubbdubdrib, and Japan. Finally in his last voyage, when he is set adrift by a mutinous crew, he finds himself in the curious Country of the Houyhnhnms. Through the various experiences of Gulliver, Swift brilliantly satirizes the political and cultural environment of his time in addition to creating a lasting and enchanting tale of fantasy. This edition is illustrated by Milo Winter and includes an introduction by George R. Dennis."
+  },
+  {
+    "title": "The Prince",
+    "author": "Niccolò Machiavelli",
+    "genre": "fantasy",
+    "isbn": "OL37826838M",
+    "image": "https://covers.openlibrary.org/b/olid/OL37826838M-M.jpg",
+    "price": 17.99,
+    "inStock": true,
+    "description": "The Prince (Italian: Il Principe [il ˈprintʃipe]; Latin: De Principatibus) is a 16th-century political treatise written by Italian diplomat and political theorist Niccolò Machiavelli as an instruction guide for new princes and royals. The general theme of The Prince is of accepting that the aims of princes – such as glory and survival – can justify the use of immoral means to achieve those ends.\r\n\r\nFrom Machiavelli's correspondence, a version appears to have been distributed in 1513, using a Latin title, De Principatibus (Of Principalities). However, the printed version was not published until 1532, five years after Machiavelli's death. This was carried out with the permission of the Medici pope Clement VII, but \"long before then, in fact since the first appearance of The Prince in manuscript, controversy had swirled about his writings\".\r\n\r\nAlthough The Prince was written as if it were a traditional work in the mirrors for princes style, it was generally agreed as being especially innovative. This is partly because it was written in the vernacular Italian rather than Latin, a practice that had become increasingly popular since the publication of Dante's Divine Comedy and other works of Renaissance literature."
+  },
+  {
+    "title": "Through the Looking-Glass",
+    "author": "Lewis Carroll",
+    "genre": "fantasy",
+    "isbn": "OL21298716M",
+    "image": "https://covers.openlibrary.org/b/olid/OL21298716M-M.jpg",
+    "price": 13.99,
+    "inStock": false,
+    "description": "*Through the Looking-Glass, and What Alice Found There* (1871) is a work of children's literature by Lewis Carroll (Charles Lutwidge Dodgson), generally categorized in the fairy tale genre. It is the sequel to *Alice's Adventures in Wonderland* (1865). Although it makes no reference to the events in the earlier book, the themes and settings of *Through the Looking-Glass* make it a kind of mirror image of Wonderland: the first book begins outdoors, in the warm month of May, uses frequent changes in size as a plot device, and draws on the imagery of playing cards; the second opens indoors on a snowy, wintry night exactly six months later, on November 4 (the day before Guy Fawkes Night), uses frequent changes in time and spatial directions as a plot device, and draws on the imagery of chess. In it, there are many mirror themes, including opposites, time running backwards, and so on. ([Wikipedia][1])\r\n\r\n\r\n  [1]: http://en.wikipedia.org/wiki/Through_the_Looking-Glass"
+  },
+  {
+    "title": "Wind in the Willows",
+    "author": "Kenneth Grahame",
+    "genre": "fantasy",
+    "isbn": "OL40046991M",
+    "image": "https://covers.openlibrary.org/b/olid/OL40046991M-M.jpg",
+    "price": 20.99,
+    "inStock": true,
+    "description": "The adventures of four amiable animals, Rat, Toad, Mole and Badger, along a river in the English countryside."
+  },
+  {
+    "title": "Five Children and It",
+    "author": "Edith Nesbit",
+    "genre": "fantasy",
+    "isbn": "OL9232844M",
+    "image": "https://covers.openlibrary.org/b/olid/OL9232844M-M.jpg",
+    "price": 11.99,
+    "inStock": false,
+    "description": "Haven't you ever thought what you would wish for if you were granted three wishes? In Nesbit's delightful classic, five siblings find a creature that grants their wishes, but as the old saying goes: be careful what you wish for, it might come true..."
+  },
+  {
+    "title": "A Midsummer Night's Dream",
+    "author": "William Shakespeare",
+    "genre": "fantasy",
+    "isbn": "OL24594641M",
+    "image": "https://covers.openlibrary.org/b/olid/OL24594641M-M.jpg",
+    "price": 16.99,
+    "inStock": true,
+    "description": "One night two young couples run into an enchanted forest in an attempt to escape their problems. But these four humans do not realize that the forest is filled with fairies and hobgoblins who love making mischief. When Oberon, the Fairy King, and his loyal hobgoblin servant, Puck, intervene in human affairs, the fate of these young couples is magically and hilariously transformed. Like a classic fairy tale, this retelling of William Shakespeare's most beloved comedy is perfect for older readers who will find much to treasure and for younger readers who will love hearing the story read aloud."
+  },
+  {
+    "title": "The Lost World",
+    "author": "Arthur Conan Doyle",
+    "genre": "fantasy",
+    "isbn": "OL22885694M",
+    "image": "https://covers.openlibrary.org/b/olid/OL22885694M-M.jpg",
+    "price": 23.99,
+    "inStock": true,
+    "description": "Journalist Ed Malone is looking for an adventure, and that's exactly what he finds when he meets the eccentric Professor Challenger - an adventure that leads Malone and his three companions deep into the Amazon jungle, to a lost world where dinosaurs roam free."
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "genre": "romance",
+    "isbn": "OL38586477M",
+    "image": "https://covers.openlibrary.org/b/olid/OL38586477M-M.jpg",
+    "price": 21.99,
+    "inStock": false,
+    "description": "Wuthering Heights is an 1847 novel by Emily Brontë, initially published under the pseudonym Ellis Bell. It concerns two families of the landed gentry living on the West Yorkshire moors, the Earnshaws and the Lintons, and their turbulent relationships with Earnshaw's adopted son, Heathcliff. The novel was influenced by Romanticism and Gothic fiction."
+  },
+  {
+    "title": "Emma",
+    "author": "Jane Austen",
+    "genre": "romance",
+    "isbn": "OL13573615M",
+    "image": "https://covers.openlibrary.org/b/olid/OL13573615M-M.jpg",
+    "price": 23.99,
+    "inStock": false,
+    "description": "Emma, by Jane Austen, is a novel about youthful hubris and the perils of misconstrued romance. The novel was first published in December 1815. As in her other novels, Austen explores the concerns and difficulties of genteel women living in Georgian-Regency England; she also creates a lively comedy of manners among her characters. Before she began the novel, Austen wrote, \"I am going to take a heroine whom no one but myself will much like.\" In the very first sentence she introduces the title character as \"Emma Woodhouse, handsome, clever, and rich.\" Emma, however, is also rather spoiled, headstrong, and self-satisfied; she greatly overestimates her own matchmaking abilities; she is blind to the dangers of meddling in other people's lives; and her imagination and perceptions often lead her astray."
+  },
+  {
+    "title": "Sense and Sensibility",
+    "author": "Jane Austen",
+    "genre": "romance",
+    "isbn": "OL14041582M",
+    "image": "https://covers.openlibrary.org/b/olid/OL14041582M-M.jpg",
+    "price": 14.99,
+    "inStock": true,
+    "description": "When Mr. Dashwood dies, he must leave the bulk of his estate to the son by his first marriage, which leaves his second wife and three daughters (Elinor, Marianne, and Margaret) in straitened circumstances. They are taken in by a kindly cousin, but their lack of fortune affects the marriageability of both practical Elinor and romantic Marianne. When Elinor forms an attachment for the wealthy Edward Ferrars, his family disapproves and separates them. And though Mrs. Jennings tries to match the worthy (and rich) Colonel Brandon to her, Marianne finds the dashing and fiery Willoughby more to her taste. Both relationships are sorely tried. But this is a romance, and through the hardships and heartbreak, true love and a happy ending will find their way for both the sister who is all sense and the one who is all sensibility. - Publisher."
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "genre": "romance",
+    "isbn": "OL27300715M",
+    "image": "https://covers.openlibrary.org/b/olid/OL27300715M-M.jpg",
+    "price": 12.99,
+    "inStock": true,
+    "description": "Louisa May Alcotts classic novel, set during the Civil War, has always captivated even the most reluctant readers. Little girls, especially, love following the adventures of the four March sisters--Meg, Beth, Amy, and most of all, the tomboy Jo--as they experience the joys and disappointments, tragedies and triumphs, of growing up. This simpler version captures all the charm and warmth of the original."
+  },
+  {
+    "title": "Northanger Abbey",
+    "author": "Jane Austen",
+    "genre": "romance",
+    "isbn": "OL36684152M",
+    "image": "https://covers.openlibrary.org/b/olid/OL36684152M-M.jpg",
+    "price": 18.99,
+    "inStock": true,
+    "description": "Northanger Abbey is both a perfectly aimed literary parody and a withering satire of the commercial aspects of marriage among the English gentry at the turn of the nineteenth century. But most of all, it is the story of the initiation into life of its naïve but sweetly appealing heroine, Catherine Morland, a willing victim of the contemporary craze for Gothic literature who is determined to see herself as the heroine of a dark and thrilling romance.\r\n\r\nWhen Catherine is invited to Northanger Abbey, the grand though forbidding ancestral seat of her suitor, Henry Tilney, she finds herself embroiled in a real drama of misapprehension, mistreatment, and mortification, until common sense and humor—and a crucial clarification of Catherine’s financial status—puts all to right. Written in 1798 but not published until after Austen’s death in 1817, Northanger Abbey is characteristically clearheaded and strong, and infinitely subtle in its comedy."
+  },
+  {
+    "title": "Ethan Frome",
+    "author": "Edith Wharton",
+    "genre": "romance",
+    "isbn": "OL7215847M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7215847M-M.jpg",
+    "price": 9.99,
+    "inStock": false,
+    "description": "*Edith Wharton wrote Ethan Frome as a frame story — meaning that the prologue and epilogue constitute a \"frame\" around the main story*\r\n\r\n**How It All Goes Down**\r\nIt's winter. A nameless engineer is in Starkfield, Massachusetts on business and he first sees Ethan Frome at the post office. Ethan is a man in his early fifties who is obviously strong, and obviously crippled. The man becomes fascinated with Ethan and wants to know his story. When Ethan begins giving him occasional rides to the train station, the two men strike up a friendship. One night when the weather is particularly bad, Ethan invites the man to stay at his house. In the hall the man hears a woman talking angrily, on and on. When Ethan speaks, the voice stops. The man tells us that he learned something that night which allowed him to imagine Ethan's story. Now we go back in time 24 years and learn about Ethan's life.\r\n\r\nEthan has walked from his farm and sawmill into town to pick up Mattie Silver from the church dance. He peeks in the windows of the church basement and sees Mattie dancing with Denis Eady and is jealous. Mattie is Ethan's wife's cousin. Her parents both died just over a year ago, and she was left with nothing. Her father had apparently swindled some of the relatives out of their savings, so nobody wanted to help Mattie. Zeena, Ethan's wife, is always sick, and decided to let Mattie live with them in exchange for doing the housework and helping the ailing Zeena.\r\n\r\nEthan liked Mattie from the beginning and worried that Zeena was too hard on her. The two women soon adjusted to each other (sort of) and things weren't as bad as they could have been. Meanwhile, Ethan has fallen in love with Mattie and wants to spend all his time with her.\r\n\r\nMattie soon comes out of the dance, and Ethan watches while Denis Eady tries to give her a ride home. She brushes him off and then Ethan reveals his presence. Ethan and Mattie are happy to see each other. They discuss possibly doing some sledding in the future. Neither is afraid to sled down the hill – at the bottom of which lies the deadly elm tree. The walk home is altogether lovely and romantic, but when they arrive, the house key isn't under the mat like it usually is.\r\n\r\nSoon, Zeena, looking ill and scary, comes downstairs and lets them in. She's usually in bed by this hour but she couldn't sleep. She is obviously suspicious of their behavior. The next day she announces that she will be gone overnight visiting a new doctor. Mattie and Ethan make good use of her absence and enjoy a romantic dinner for two. Unfortunately, the cat breaks Zeena's favorite dish and Ethan isn't able to locate any glue until after Zeena gets back. The first thing Zeena does when she gets home is to tell Ethan that she's kicking out Mattie. He protests, but fighting is useless. Then Zeena finds the broken pickle dish and is super upset (it had been a wedding gift).\r\n\r\nEthan decides he'll run away with Mattie, but then a combination of lack of cash and guilt stop him. Still, he insists on driving Mattie to the train station. He takes her on the long route, so they can look at different places they enjoyed together. By the time they get to the town sledding hill, it's already dark. As they are contemplating sledding, and pondering the hopelessness of their situation, Mattie suggests that they sled into the elm tree and kill themselves. Ethan agrees and they smash into the tree. But they survive.\r\n\r\nThen the story goes back to the present and we find the engineer right where we left him, about to enter the Frome kitchen. When he does enter he learns that the woman who was talking on and on in an argumentative tone is…Mattie! She has spinal disease and can't move without assistance. Zeena is there too, cooking. They all three live together, an unhappy family in the Frome house.\r\n\r\n\r\n----------\r\nAlso contained in: \r\n\r\n - [Age of Innocence / The House of Mirth / Ethan Frome](https://openlibrary.org/works/OL20577050W)\r\n - [Edith Wharton Reader](https://openlibrary.org/works/OL98540W/The_Edith_Wharton_reader)\r\n - [Ethan Frome and Other Stories](https://openlibrary.org/works/OL15000117W/Ethan_Frome_and_other_stories)\r\n - [Ethan Frome and Related Readings][1]\r\n - [Ethan Frome and Selected Stories](https://openlibrary.org/works/OL15000119W/Ethan_Frome_and_Selected_Stories)\r\n - [Edith Wharton Omnibus](https://openlibrary.org/works/OL98499W/The_Edith_Wharton_Omnibus)\r\n - [Ethan Frome with Connections](https://openlibrary.org/works/OL15000126W/Ethan_Frome_with_Connections)\r\n - [The Hermit and the Wild Woman and other stories / Ethan Frome](https://openlibrary.org/works/OL13131348W/Ethan_Frome_The_Hermit_and_the_Wild_Woman_and_other_stories)\r\n - [Novellas and Other Writings](https://openlibrary.org/works/OL15000211W/Novellas_and_other_writings)\r\n - [Three Classics by American Women][2]\r\n - [Three Novels](https://openlibrary.org/works/OL15000264W/Three_Novels)\r\n - [Works of Edith Wharton](https://openlibrary.org/works/OL98524W/Works_of_Edith_Wharton)\r\n\r\n  [1]: https://openlibrary.org/works/OL16061406W/Ethan_Frome_and_Related_Readings\r\n  [2]: https://openlibrary.org/works/OL15514881W/Three_Classics_by_American_Women_(The_Awakening_Ethan_Frome_O_Pioneers!"
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Лев Толстой",
+    "genre": "romance",
+    "isbn": "OL10601812M",
+    "image": "https://covers.openlibrary.org/b/olid/OL10601812M-M.jpg",
+    "price": 7.99,
+    "inStock": false,
+    "description": "Described by William Faulkner as the best novel ever written and by Fyodor Dostoevsky as “flawless,” Anna Karenina tells of the doomed love affair between the sensuous and rebellious Anna and the dashing officer, Count Vronsky. Tragedy unfolds as Anna rejects her passionless marriage and thereby exposes herself to the hypocrisies of society. Set against a vast and richly textured canvas of nineteenth-century Russia, the novel's seven major characters create a dynamic imbalance, playing out the contrasts of city and country life and all the variations on love and family happiness."
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "romance",
+    "isbn": "OL6969829M",
+    "image": "https://covers.openlibrary.org/b/olid/OL6969829M-M.jpg",
+    "price": 9.99,
+    "inStock": false,
+    "description": "The novel is set somewhere in the north of England. Jane's childhood at Gateshead Hall, where she is emotionally and physically abused by her aunt and cousins; her education at Lowood School, where she acquires friends and role models but also suffers privations and oppression; her time as the governess of Thornfield Hall, where she falls in love with her Byronic employer, Edward Rochester; her time with the Rivers family, during which her earnest but cold clergyman cousin, St John Rivers, proposes to her. Will she or will she not marry him?"
+  },
+  {
+    "title": "Le Comte de Monte Cristo",
+    "author": "Alexandre Dumas",
+    "genre": "romance",
+    "isbn": "OL46867087M",
+    "image": "https://covers.openlibrary.org/b/olid/OL46867087M-M.jpg",
+    "price": 23.99,
+    "inStock": true,
+    "description": "xxix, 608 pages ; 21 cm"
+  },
+  {
+    "title": "Uncle Tom's Cabin",
+    "author": "Harriet Beecher Stowe",
+    "genre": "romance",
+    "isbn": "OL26244385M",
+    "image": "https://covers.openlibrary.org/b/olid/OL26244385M-M.jpg",
+    "price": 21.99,
+    "inStock": true,
+    "description": "This unforgettable novel tells the story of Tom, a devoutly Christian slave who chooses not to escape bondage for fear of embarrassing his master. However, he is soon sold to a slave trader and sent down the Mississippi, where he must endure brutal treatment. This is a powerful tale of the extreme cruelties of slavery, as well as the price of loyalty and morality. When first published, it helped to solidify the anti-slavery sentiments of the North, and it remains today as the book that helped move a nation to civil war.\r\n\r\n\"So this is the little lady who made this big war.\" Abraham Lincoln's legendary comment upon meeting Mrs. Stowe has been seriously questioned, but few will deny that this work fed the passions and prejudices of countless numbers. If it did not \"make\" the Civil War, it flamed the embers. That Uncle Tom's Cabin is far more than an outdated work of propaganda confounds literary criticism. The novel's overwhelming power and persuasion have outlived even the most severe of critics. As Professor John William Ward of Amherst College points out in his incisive Afterword, the dilemma posed by Mrs. Stowe is no less relevant today than it was in 1852: What is it to be \"a moral human being\"? Can such a person live in society -- any society? Commenting on the timeless significance of the book, Professor Ward writes: \"Uncle Tom's Cabin is about slavery, but it is about slavery because the fatal weakness of the slave's condition is the extreme manifestation of the sickness of the general society, a society breaking up into discrete, atomistic individuals where human beings, white or black, can find no secure relation one with another. Mrs. Stowe was more radical than even those in the South who hated her could see. Uncle Tom's Cabin suggests no less than the simple and terrible possibility that society has no place in it for love.\" - Back cover."
+  },
+  {
+    "title": "Gulliver's Travels",
+    "author": "Jonathan Swift",
+    "genre": "biography",
+    "isbn": "OL26445784M",
+    "image": "https://covers.openlibrary.org/b/olid/OL26445784M-M.jpg",
+    "price": 16.99,
+    "inStock": true,
+    "description": "A parody of traveler’s tales and a satire of human nature, “Gulliver’s Travels” is Jonathan Swift’s most famous work which was first published in 1726. An immensely popular tale ever since its original publication, “Gulliver’s Travels” is the story of its titular character, Lemuel Gulliver, a man who loves to travel. A series of four journeys are detailed in which Gulliver finds himself in a number of amusing and precarious situations. In the first voyage, Gulliver is imprisoned by a race of tiny people, the Lilliputians, when following a shipwreck he is washed upon the shores of their island country. In his second voyage Gulliver finds himself abandoned in Brobdingnag, a land of giants, where he is exhibited for their amusement. In his third voyage, Gulliver once again finds himself marooned; fortunately he is rescued by the flying island of Laputa, a kingdom devoted to the arts of music and mathematics. He subsequently travels to the surrounding lands of Balnibarbi, Luggnagg, Glubbdubdrib, and Japan. Finally in his last voyage, when he is set adrift by a mutinous crew, he finds himself in the curious Country of the Houyhnhnms. Through the various experiences of Gulliver, Swift brilliantly satirizes the political and cultural environment of his time in addition to creating a lasting and enchanting tale of fantasy. This edition is illustrated by Milo Winter and includes an introduction by George R. Dennis."
+  },
+  {
+    "title": "Narrative of the life of Frederick Douglass",
+    "author": "Frederick Douglass",
+    "genre": "biography",
+    "isbn": "OL6564860M",
+    "image": "https://covers.openlibrary.org/b/olid/OL6564860M-M.jpg",
+    "price": 8.99,
+    "inStock": false,
+    "description": "This book is an autobiographical account by runaway slave Frederick Douglass that chronicles his experiences with his owners and overseers and discusses how slavery affected both slaves and slaveholders."
+  },
+  {
+    "title": "Twelve years a slave",
+    "author": "Solomon Northup",
+    "genre": "biography",
+    "isbn": "OL22322986M",
+    "image": "https://covers.openlibrary.org/b/olid/OL22322986M-M.jpg",
+    "price": 11.99,
+    "inStock": true,
+    "description": "Twelve Years a Slave is a harrowing memoir about one of the darkest periods in American history. It recounts how Solomon Northup, born a free man in New York, was lured to Washington, D.C., in 1841 with the promise of fast money, then drugged and beaten and sold into slavery. He spent the next twelve years of his life in captivity on a Louisiana cotton plantation."
+  },
+  {
+    "title": "Captains Courageous",
+    "author": "Rudyard Kipling",
+    "genre": "biography",
+    "isbn": "OL13447930M",
+    "image": "https://covers.openlibrary.org/b/olid/OL13447930M-M.jpg",
+    "price": 21.99,
+    "inStock": true,
+    "description": "Captains Courageous tells of the adventures of fifteen-year-old Harvey Cheyne Jr., the spoiled son of a railroad tycoon, after he is saved from drowning by a Portuguese fisherman in the North Atlantic. He must work as a ship's boy for a fishing season after being washed overboard from an ocean liner."
+  },
+  {
+    "title": "The Canterbury Tales",
+    "author": "Geoffrey Chaucer",
+    "genre": "biography",
+    "isbn": "OL7146598M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7146598M-M.jpg",
+    "price": 7.99,
+    "inStock": false,
+    "description": "A collection of stories written in Middle English by Geoffrey Chaucer at the end of the 14th century. The tales (mostly in verse, although some are in prose) are told as part of a story-telling contest by a group of pilgrims as they travel together on a journey from Southwark to the shrine of Saint Thomas Becket at Canterbury Cathedral. In a long list of works, including Troilus and Criseyde, House of Fame, and Parliament of Fowls, The Canterbury Tales was Chaucer's magnum opus. He uses the tales and the descriptions of the characters to paint an ironic and critical portrait of English society at the time, and particularly of the Church. Structurally, the collection bears the influence of The Decameron, which Chaucer is said to have come across during his first diplomatic mission to Italy in 1372. However, Chaucer peoples his tales with 'sondry folk' rather than Boccaccio's fleeing nobles."
+  },
+  {
+    "title": "Julius Caesar",
+    "author": "William Shakespeare",
+    "genre": "biography",
+    "isbn": "OL26229526M",
+    "image": "https://covers.openlibrary.org/b/olid/OL26229526M-M.jpg",
+    "price": 14.99,
+    "inStock": false,
+    "description": "Presents the original text of Shakespeare's play side by side with a modern version, discusses the author and the theater of his time, and provides quizzes and other study activities."
+  },
+  {
+    "title": "Dubliners",
+    "author": "James Joyce",
+    "genre": "biography",
+    "isbn": "OL14005342M",
+    "image": "https://covers.openlibrary.org/b/olid/OL14005342M-M.jpg",
+    "price": 16.99,
+    "inStock": false,
+    "description": "James Joyce's disillusion with the publication of Dubliners in 1914 was the result of ten years battling with publishers, resisting their demands to remove swear words, real place names and much else, including two entire stories. Although only 24 when he signed his first publishing contract for the book, Joyce already knew its worth: to alter it in any way would 'retard the course of civilisation in Ireland'. Joyce's aim was to tell the truth -- to create a work of art that would reflect life in Ireland at the turn of the last century. By rejecting euphemism, he would reveal to the Irish the unromantic reality, the recognition of which would lead to the spiritual liberation of the country. Each of the fifteen stories offers a glimpse of the lives of ordinary Dubliners -- a death, an encounter, an opportunity not taken, a memory rekindled -- and collectively they paint a portrait of a nation. - Back cover.\r\n\r\nDubliners is a collection of vignettes of Dublin life at the end of the 19th Century written, by Joyce’s own admission, in a manner that captures some of the unhappiest moments of life. Some of the dominant themes include lost innocence, missed opportunities and an inability to escape one’s circumstances.\r\n\r\nJoyce’s intention in writing Dubliners, in his own words, was to write a chapter of the moral history of his country, and he chose Dublin for the scene because that city seemed to him to be the centre of paralysis. He tried to present the stories under four different aspects: childhood, adolescence, maturity and public life.\r\n‘The Sisters’, ‘An Encounter’ and ‘Araby’ are stories from childhood. ‘Eveline’, ‘After the Race’, ‘Two Gallants’ and ‘The Boarding House’ are stories from adolescence. ‘A Little Cloud’, ‘Counterparts’, ‘Clay’ and ‘A Painful Case’ are all stories concerned with mature life. Stories from public life are ‘Ivy Day in the Committee Room’ and ‘A Mother and Grace’. ‘The Dead’ is the last story in the collection and probably Joyce’s greatest. It stands alone and, as the title would indicate, is concerned with death.\r\n\r\n----------\r\nContains\r\n\r\n[Sisters](https://openlibrary.org/works/OL15073389W/The_Sisters)\r\n[Encounter](https://openlibrary.org/works/OL15073256W)\r\n[Araby](https://openlibrary.org/works/OL20570121W)\r\n[Eveline](https://openlibrary.org/works/OL15073302W)\r\n[After the Race](https://openlibrary.org/works/OL18179262W)\r\n[Two Gallants](https://openlibrary.org/works/OL20570300W)\r\n[Boarding House](https://openlibrary.org/works/OL15073259W/The_Boarding_House)\r\n[Little Cloud](https://openlibrary.org/works/OL18179222W)\r\n[Counterparts](https://openlibrary.org/works/OL20570464W)\r\n[Clay](https://openlibrary.org/works/OL18179205W)\r\n[A Painful Case](https://openlibrary.org/works/OL5213767W)\r\n[Ivy Day In the Committee Room](https://openlibrary.org/works/OL20571820W)\r\n[Mother](https://openlibrary.org/works/OL18179244W)\r\n[Grace](https://openlibrary.org/works/OL15073323W)\r\n[Dead](https://openlibrary.org/works/OL15073437W/The_Dead)\r\n\r\n----------\r\nAlso contained in:\r\n\r\n - [Dubliners / Portrait of the Artist as a Young Man](https://openlibrary.org/works/OL15073371W/Dubliners_Portrait_of_the_Artist_as_a_Young_Man)\r\n - [Essential James Joyce](https://openlibrary.org/works/OL86338W/The_Essential_James_Joyce)\r\n - [Portable James Joyce](https://openlibrary.org/works/OL86334W/The_Portable_James_Joyce)"
+  },
+  {
+    "title": "Autobiography",
+    "author": "Benjamin Franklin",
+    "genre": "biography",
+    "isbn": "OL7134689M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7134689M-M.jpg",
+    "price": 11.99,
+    "inStock": false,
+    "description": "Few men could compare to Benjamin Franklin. Virtually self-taught, he excelled as an athlete, a man of letters, a printer, a scientist, a wit, an inventor, an editor, and a writer, and he was probably the most successful diplomat in American history. David Hume hailed him as the first great philosopher and great man of letters in the New World.\r\n\r\nWritten initially to guide his son, Franklin's autobiography is a lively, spellbinding account of his unique and eventful life. Stylistically his best work, it has become a classic in world literature, one to inspire and delight readers everywhere."
+  },
+  {
+    "title": "The Second Jungle Book",
+    "author": "Rudyard Kipling",
+    "genre": "biography",
+    "isbn": "OL9323782M",
+    "image": "https://covers.openlibrary.org/b/olid/OL9323782M-M.jpg",
+    "price": 8.99,
+    "inStock": false,
+    "description": "Not so much a sequel as a small collection of short stories, only five of which feature Mowgli and friends. The best known of the stories is 'How Fear Came', which tells the story of how the tiger got his stripes."
+  },
+  {
+    "title": "Sonnets",
+    "author": "William Shakespeare",
+    "genre": "biography",
+    "isbn": "OL6552577M",
+    "image": "https://covers.openlibrary.org/b/olid/OL6552577M-M.jpg",
+    "price": 10.99,
+    "inStock": true,
+    "description": "\"I feel that I have spent half my career with one or another Pelican Shakespeare in my back pocket. Convenience, however, is the least important aspect of the new Pelican Shakespeare series. Here is an elegant and clear text for either the study or the rehearsal room, notes where you need them and the distinguished scholarship of the general editors, Stephen Orgel and A. R. Braunmuller who understand that these are plays for performance as well as great texts for contemplation.\" (Patrick Stewart)"
+  },
+  {
+    "title": "The Art of War",
+    "author": "孙武",
+    "genre": "philosophy",
+    "isbn": "OL8784104M",
+    "image": "https://covers.openlibrary.org/b/olid/OL8784104M-M.jpg",
+    "price": 13.99,
+    "inStock": true,
+    "description": "The Art of War is an ancient Chinese military treatise dating from the Late Spring and Autumn Period. The work, which is attributed to the ancient Chinese military strategist Sun Tzu"
+  },
+  {
+    "title": "The Prince",
+    "author": "Niccolò Machiavelli",
+    "genre": "philosophy",
+    "isbn": "OL37826838M",
+    "image": "https://covers.openlibrary.org/b/olid/OL37826838M-M.jpg",
+    "price": 15.99,
+    "inStock": true,
+    "description": "The Prince (Italian: Il Principe [il ˈprintʃipe]; Latin: De Principatibus) is a 16th-century political treatise written by Italian diplomat and political theorist Niccolò Machiavelli as an instruction guide for new princes and royals. The general theme of The Prince is of accepting that the aims of princes – such as glory and survival – can justify the use of immoral means to achieve those ends.\r\n\r\nFrom Machiavelli's correspondence, a version appears to have been distributed in 1513, using a Latin title, De Principatibus (Of Principalities). However, the printed version was not published until 1532, five years after Machiavelli's death. This was carried out with the permission of the Medici pope Clement VII, but \"long before then, in fact since the first appearance of The Prince in manuscript, controversy had swirled about his writings\".\r\n\r\nAlthough The Prince was written as if it were a traditional work in the mirrors for princes style, it was generally agreed as being especially innovative. This is partly because it was written in the vernacular Italian rather than Latin, a practice that had become increasingly popular since the publication of Dante's Divine Comedy and other works of Renaissance literature."
+  },
+  {
+    "title": "Candide",
+    "author": "Voltaire",
+    "genre": "philosophy",
+    "isbn": "OL22244325M",
+    "image": "https://covers.openlibrary.org/b/olid/OL22244325M-M.jpg",
+    "price": 11.99,
+    "inStock": false,
+    "description": "Brought up in the household of a powerful Baron, Candide is an open-minded young man, whose tutor, Pangloss, has instilled in him the belief that 'all is for the best'. But when his love for the Baron's rosy-cheeked daughter is discovered, Candide is cast out to make his own way in the world. \r\n\r\nAnd so he and his various companions begin a breathless tour of Europe, South America and Asia, as an outrageous series of disasters befall them - earthquakes, syphilis, a brush with the Inquisition, murder - sorely testing the young hero's optimism."
+  },
+  {
+    "title": "πολιτεία",
+    "author": "Πλάτων",
+    "genre": "philosophy",
+    "isbn": "OL40296849M",
+    "image": "https://covers.openlibrary.org/b/olid/OL40296849M-M.jpg",
+    "price": 9.99,
+    "inStock": true,
+    "description": "The Republic is Plato's most famous work and one of the seminal texts of Western philosophy and politics. The characters in this Socratic dialogue - including Socrates himself - discuss whether the just or unjust man is happier. They are the philosopher-kings of imagined cities and they also discuss the nature of philosophy and the soul among other things."
+  },
+  {
+    "title": "As a man thinketh",
+    "author": "James Allen",
+    "genre": "philosophy",
+    "isbn": "OL6614479M",
+    "image": "https://covers.openlibrary.org/b/olid/OL6614479M-M.jpg",
+    "price": 8.99,
+    "inStock": true,
+    "description": "On new thought."
+  },
+  {
+    "title": "Alice's Adventures in Wonderland / Through the Looking Glass",
+    "author": "Lewis Carroll",
+    "genre": "philosophy",
+    "isbn": "OL25129289M",
+    "image": "https://covers.openlibrary.org/b/olid/OL25129289M-M.jpg",
+    "price": 12.99,
+    "inStock": true,
+    "description": "A very real little girl named Alice follows a remarkable rabbit down a rabbit hole and steps through a looking-glass to come face to face with some of the strangest adventures and some of the oddest characters in all literature. The crusty Duchess, the Mad Hatter, the weeping Mock Turtle, the diabolical Queen of Hearts, the Cheshire-Cat, Tweedledum and Tweedledee--each one is more eccentric, and more entertaining, than the last. And all of them could only have come from the pen of Lewis Carroll, one of the few adults ever to enter successfully the children's world of make-believe--a wonderland where the impossible becomes possible, the unreal, real...where the heights of adventure are limited only by the depths of imagination.\r\n--back cover\r\n\r\nContains:\r\n\r\n - [Alice's Adventures in Wonderland](https://openlibrary.org/works/OL8193508W)\r\n - [Through the Looking Glass, and What Alice Found There][2]\r\n\r\n  [2]: https://openlibrary.org/works/OL15298516W"
+  },
+  {
+    "title": "De rerum natura",
+    "author": "Titus Lucretius Carus",
+    "genre": "philosophy",
+    "isbn": "OL7870148M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7870148M-M.jpg",
+    "price": 22.99,
+    "inStock": false,
+    "description": "This is regarded as a seminal text of Epicurean science and philosophy. Epicurians discarded both the idea of immortality and the superstitious worship of wilful gods for a life of serene contentment in the available pleasures of nature. Lucretius (c100-c55BC), in elucidating this belief, steers the reader through an extraordinary breadth of subject matter, ranging from the indestructibility of atoms and the discovery of fire to the folly of romantic love and the phenomena of clouds and rainstorms."
+  },
+  {
+    "title": "Walden",
+    "author": "Henry David Thoreau",
+    "genre": "philosophy",
+    "isbn": "OL32611725M",
+    "image": "https://covers.openlibrary.org/b/olid/OL32611725M-M.jpg",
+    "price": 23.99,
+    "inStock": true,
+    "description": "Walden first published in 1854 as Walden; or, Life in the Woods) is a book by American transcendentalist writer Henry David Thoreau. The text is a reflection upon the author's simple living in natural surroundings. The work is part personal declaration of independence, social experiment, voyage of spiritual discovery, satire, and—to some degree—a manual for self-reliance.\r\n\r\nWalden details Thoreau's experiences over the course of two years, two months, and two days in a cabin he built near Walden Pond amidst woodland owned by his friend and mentor Ralph Waldo Emerson, near Concord, Massachusetts.\r\n\r\nThoreau makes precise scientific observations of nature as well as metaphorical and poetic uses of natural phenomena. He identifies many plants and animals by both their popular and scientific names, records in detail the color and clarity of different bodies of water, precisely dates and describes the freezing and thawing of the pond, and recounts his experiments to measure the depth and shape of the bottom of the supposedly \"bottomless\" Walden Pond.\r\n\r\n(Source: [Wikipedia](https://en.wikipedia.org/wiki/Walden))"
+  },
+  {
+    "title": "On Liberty",
+    "author": "John Stuart Mill",
+    "genre": "philosophy",
+    "isbn": "OL8837549M",
+    "image": "https://covers.openlibrary.org/b/olid/OL8837549M-M.jpg",
+    "price": 15.99,
+    "inStock": true,
+    "description": "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb."
+  },
+  {
+    "title": "Nicomachean Ethics",
+    "author": "Aristotle",
+    "genre": "philosophy",
+    "isbn": "OL7668954M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7668954M-M.jpg",
+    "price": 11.99,
+    "inStock": false,
+    "description": "An detailed examination of what the best life might be for human beings.  In order to anwer this question, Aristotle finds he also has to examine what virtue itself is and all of the various virtues that might make up the best life."
+  },
+  {
+    "title": "Macbeth",
+    "author": "William Shakespeare",
+    "genre": "art",
+    "isbn": "OL3306363M",
+    "image": "https://covers.openlibrary.org/b/olid/OL3306363M-M.jpg",
+    "price": 8.99,
+    "inStock": false,
+    "description": "The play concerns a trusted general who secretly lusts for power. Encouraged by the prophecies of three witches and urged on by his ambitious wife Macbeth commits regicide. Left fearful and superstitious by this desperate act he is driven to a spiralling course of murder and outrage, almost inevitably culminating in his own death. One of Shakespeare’s most popular tragedies, Macbeth is ostensibly based on the Scottish king although the story represented in the play bears no relation to historical fact as the true King Macbeth was well respected by his contemporaries. This book includes the hero Macbeth becoming more and more evil after he gets told his \"destiny\" by the witches and becomes greedy with power."
+  },
+  {
+    "title": "Aeneis",
+    "author": "Publius Vergilius Maro",
+    "genre": "art",
+    "isbn": "OL25090795M",
+    "image": "https://covers.openlibrary.org/b/olid/OL25090795M-M.jpg",
+    "price": 8.99,
+    "inStock": true,
+    "description": "\"A prose translation of Vergil's Aeneid with new illustrations and informational appendices\"--Provided by publisher."
+  },
+  {
+    "title": "Picasso",
+    "author": "Pablo Picasso",
+    "genre": "art",
+    "isbn": "OL9101853M",
+    "image": "https://covers.openlibrary.org/b/olid/OL9101853M-M.jpg",
+    "price": 9.99,
+    "inStock": false,
+    "description": "In 1946, when Picasso received the offer to use one of the great rooms in the castle at Antibes as a studio, he exclaimed enthusiastically: “I'm not only going to paint, I'll decorate the museum too.” The result was a series of paintings and drawings that reflected the jubilant spirit, the joie de vivre, of a country that was free once more. Picasso later added sculptures, graphic works, and ceramics to this collection, forming the basis for what would be France's first museum dedicated to him, inaugurated in 1966 as Musée Picasso, Antibes.This catalog, published in conjunction with the exhibition of Palazzo Grassi, comprises a great selection of the most outstanding works from the Musée Picasso of Antibes, a large number of which have never been shown beyond the museum's walls. These include the murals La Joie de Vivre, 1946, The Sea Urchin Eater, 1946, and the impressive sculpture Head of Woman with Chignon, 1932. Featuring paintings, drawings, sculptures, and ceramics, the works illustrate a splendid period in Picasso's artistic career. The volume also includes a selection of photographs of Picasso by Polish artist Michel Sima, which portray the context in which Picasso created the works."
+  },
+  {
+    "title": "Evangeline",
+    "author": "Henry Wadsworth Longfellow",
+    "genre": "art",
+    "isbn": "OL23435456M",
+    "image": "https://covers.openlibrary.org/b/olid/OL23435456M-M.jpg",
+    "price": 15.99,
+    "inStock": true,
+    "description": "An epic poem set during the expulsion of the Acadians from Acadie, following the fictional Evangeline and her search for her lost love, Gabriel."
+  },
+  {
+    "title": "Salomé",
+    "author": "Oscar Wilde",
+    "genre": "art",
+    "isbn": "OL14040876M",
+    "image": "https://covers.openlibrary.org/b/olid/OL14040876M-M.jpg",
+    "price": 17.99,
+    "inStock": true,
+    "description": "Salome is a tragedy by Oscar Wilde. The original 1891 version of the play was in French. Three years later an English translation was published. The play tells in one act the Biblical story of Salome, stepdaughter of the tetrarch Herod Antipas, who, to her stepfather's dismay but to the delight of her mother Herodias, requests the head of Jokanaan (John the Baptist) on a silver platter as a reward for dancing the dance of the seven veils. This is a Green Bird Publication of a quality soft cover, suitable for repertoire companies, libraries, home libraries, and gift giving as well as keepsakes."
+  },
+  {
+    "title": "The Renaissance, Studies in Art and Poetry",
+    "author": "Walter Pater",
+    "genre": "art",
+    "isbn": "OL9683091M",
+    "image": "https://covers.openlibrary.org/b/olid/OL9683091M-M.jpg",
+    "price": 11.99,
+    "inStock": true,
+    "description": "Walter Pater’s Studies in the History of the Renaissance was one of the most talked about books in nineteenth-century Britain, and it remains a work of unusual importance to anyone interested in art history or English literature. Pater’s luxurious and finely wrought style inspired generations of writers, and his unique blend of scholarship, philosophy, and personal bias made his view of the quintessential ‘spirit of the renaissance’ a key subject for subsequent aesthetic debate."
+  },
+  {
+    "title": "Paul Klee",
+    "author": "Paul Klee",
+    "genre": "art",
+    "isbn": "OL3372283M",
+    "image": "https://covers.openlibrary.org/b/olid/OL3372283M-M.jpg",
+    "price": 7.99,
+    "inStock": true,
+    "description": "An emblematic figure of the early 20th century, Paul Klee participated in the expansive Avant-Garde movements in Germany and Switzerland. From the vibrant Blaue Reiter movement to Surrealism at the end of the 1930s and throughout his teaching years at the Bauhaus, he attempted to capture the organic and harmonic nature of painting by alluding to other artistic mediums such as poetry, literature, and, above all, music. While he collaborated with artists like August Macke and Alexej von Jawlensky, his most famous partnership was with the abstract expressionist, Wassily Kandinsky."
+  },
+  {
+    "title": "Henry Moore",
+    "author": "David Sylvester",
+    "genre": "art",
+    "isbn": "OL8284011M",
+    "image": "https://covers.openlibrary.org/b/olid/OL8284011M-M.jpg",
+    "price": 20.99,
+    "inStock": true,
+    "description": "No description available"
+  },
+  {
+    "title": "Implementation of the Helsinki accords",
+    "author": "United States. Congress. Commission on Security and Cooperation in Europe",
+    "genre": "art",
+    "isbn": "OL13515304M",
+    "image": "https://covers.openlibrary.org/b/olid/OL13515304M-M.jpg",
+    "price": 10.99,
+    "inStock": true,
+    "description": "No description available"
+  },
+  {
+    "title": "Twice-Told Tales",
+    "author": "Nathaniel Hawthorne",
+    "genre": "art",
+    "isbn": "OL7120877M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7120877M-M.jpg",
+    "price": 17.99,
+    "inStock": false,
+    "description": "Twice-Told Tales is a short story collection first published in two volumes by Nathaniel Hawthorne. The stories had all been previously published in magazines and annuals, hence the name.\r\n\r\nContains:\r\nThe Gray Champion\r\nSunday At Home\r\nThe Wedding Knell\r\nThe [Minister's Black Veil](https://openlibrary.org/works/OL455342W)\r\nThe Maypole of Merry Mount\r\nThe Gentle Boy\r\nMr Higginbotham's Catastrophe\r\nLittle Annie's Ramble\r\nWakefield\r\nA Rill From the Town Pump\r\nThe Great Carbuncle\r\nThe Prophetic Pictures\r\nDavid Swan\r\nSights From a Steeple\r\nThe Hollow of the Three Hills\r\nThe Toll-Gatherer's Day\r\nThe Vision of the Fountain\r\nFancy's Show-Box\r\n[Dr Heidegger's Experiment](https://openlibrary.org/works/OL455515W)\r\nLegends of the Province House\r\nThe Haunted Mind\r\nThe Village Uncle\r\nThe Ambitious Guest\r\nThe Sister Years\r\nSnow-Flakes\r\nThe Seven Vagabonds\r\nThe White Old Maid\r\nPeter Goldthwaite's Treasure\r\nChippings with a Chisel\r\nThe Shaker Bridal\r\nNight Sketches\r\nEndicott and the Red Cross\r\nThe Lily's Guest\r\nFootprints on the Sea-Shore\r\nEdward Fane's Rosebud\r\nThe Threefold Destiny"
+  },
+  {
+    "title": "The Prince",
+    "author": "Niccolò Machiavelli",
+    "genre": "psychology",
+    "isbn": "OL37826838M",
+    "image": "https://covers.openlibrary.org/b/olid/OL37826838M-M.jpg",
+    "price": 21.99,
+    "inStock": false,
+    "description": "The Prince (Italian: Il Principe [il ˈprintʃipe]; Latin: De Principatibus) is a 16th-century political treatise written by Italian diplomat and political theorist Niccolò Machiavelli as an instruction guide for new princes and royals. The general theme of The Prince is of accepting that the aims of princes – such as glory and survival – can justify the use of immoral means to achieve those ends.\r\n\r\nFrom Machiavelli's correspondence, a version appears to have been distributed in 1513, using a Latin title, De Principatibus (Of Principalities). However, the printed version was not published until 1532, five years after Machiavelli's death. This was carried out with the permission of the Medici pope Clement VII, but \"long before then, in fact since the first appearance of The Prince in manuscript, controversy had swirled about his writings\".\r\n\r\nAlthough The Prince was written as if it were a traditional work in the mirrors for princes style, it was generally agreed as being especially innovative. This is partly because it was written in the vernacular Italian rather than Latin, a practice that had become increasingly popular since the publication of Dante's Divine Comedy and other works of Renaissance literature."
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": "psychology",
+    "isbn": "OL31857229M",
+    "image": "https://covers.openlibrary.org/b/olid/OL31857229M-M.jpg",
+    "price": 18.99,
+    "inStock": false,
+    "description": "\"Command the murderous chalices! Drink ye harpooners! Drink and swear, ye men that man the deathful whaleboat's bow -- Death to Moby Dick!\" So Captain Ahab binds his crew to fulfil his obsession -- the destruction of the great white whale. Under his lordly but maniacal command the Pequod's commercial mission is perverted to one of vengeance. To Ahab, the monster that destroyed his body is not a creature, but the symbol of \"some unknown but still reasoning thing.\" Uncowed by natural disasters, ill omens, even death, Ahab urges his ship towards \"the undeliverable, nameless perils of the whale.\" Key letters from Melville to Nathaniel Hawthorne are printed at the end of this volume. - Back cover."
+  },
+  {
+    "title": "Hard Times",
+    "author": "Charles Dickens",
+    "genre": "psychology",
+    "isbn": "OL24364955M",
+    "image": "https://covers.openlibrary.org/b/olid/OL24364955M-M.jpg",
+    "price": 6.99,
+    "inStock": true,
+    "description": "Dickens scathing portrait of Victorian industrial society and its misapplied utilitarian philosophy, Hard Times features schoolmaster Thomas Gradgrind, one of his most richly dimensional, memorable characters. Filled with the details and wonders of small-town life, it is also a daring novel of ideas and ultimately, a celebration of love, hope, and limitless possibilities of the imagination."
+  },
+  {
+    "title": "As a man thinketh",
+    "author": "James Allen",
+    "genre": "psychology",
+    "isbn": "OL6614479M",
+    "image": "https://covers.openlibrary.org/b/olid/OL6614479M-M.jpg",
+    "price": 20.99,
+    "inStock": true,
+    "description": "On new thought."
+  },
+  {
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "genre": "psychology",
+    "isbn": "OL22136640M",
+    "image": "https://covers.openlibrary.org/b/olid/OL22136640M-M.jpg",
+    "price": 24.99,
+    "inStock": false,
+    "description": "Written over a seven-year period, from 1914 to 1921, this book has survived bowdlerization, legal action and controversy. The novel deals with the events of one day in Dublin, 16th June 1904, now known as \"Bloomsday\". The principal characters are Stephen Dedalus, Leopold Bloom and his wife Molly. Ulysses has been labelled dirty, blasphemous and unreadable. In a famous 1933 court decision, Judge John M. Woolsey declared it an emetic book-although he found it not quite obscene enough to disallow its importation into the United States-and Virginia Woolf was moved to decry James Joyce's \"cloacal obsession\". None of these descriptions, however, do the slightest justice to the novel. To this day it remains the modernist masterpiece, in which the author takes both Celtic lyricism and vulgarity to splendid extremes. It is funny, sorrowful, and even (in its own way) suspenseful. And despite the exegetical industry that has sprung up in the last 75 years, Ulysses is also a compulsively readable book."
+  },
+  {
+    "title": "The Awakening",
+    "author": "Kate Chopin",
+    "genre": "psychology",
+    "isbn": "OL528856M",
+    "image": "https://covers.openlibrary.org/b/olid/OL528856M-M.jpg",
+    "price": 12.99,
+    "inStock": true,
+    "description": "The Awakening is a novel by Kate Chopin, first published in 1899. Set in New Orleans and on the Louisiana Gulf coast at the end of the 19th century, the plot centers on Edna Pontellier and her struggle between her increasingly unorthodox views on femininity and motherhood with the prevailing social attitudes of the turn-of-the-century American South. It is one of the earliest American novels that focuses on women's issues without condescension. It is also widely seen as a landmark work of early feminism, generating a mixed reaction from contemporary readers and critics."
+  },
+  {
+    "title": "Saint Francis of Assisi",
+    "author": "Gilbert Keith Chesterton",
+    "genre": "psychology",
+    "isbn": "OL7992294M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7992294M-M.jpg",
+    "price": 5.99,
+    "inStock": false,
+    "description": "G.K. Chesterton lends his witty, astute and sardonic prose to the much loved figure of Saint Francis of Assis. Grounding the man behind the myth he states \"however wild and romantic his gyrations might appear to many, [Francis] always hung on to reason by one invisible and indestructible hair....The great saint was sane....He was not a mere eccentric because he was always turning towards the center and heart of the maze; he took the queerest and most zigzag shortcuts through the wood, but he was always going home.\"Review: \"his opinions shine from every page. The reader is rewarded with many fresh perspectives on Francis...\" -- Franciscan, May 2002"
+  },
+  {
+    "title": "Tender is the Night",
+    "author": "F. Scott Fitzgerald",
+    "genre": "psychology",
+    "isbn": "OL18337526M",
+    "image": "https://covers.openlibrary.org/b/olid/OL18337526M-M.jpg",
+    "price": 17.99,
+    "inStock": true,
+    "description": "A psychiatrist, Dick Diver, treats and eventually marries a wealthy patient, Nicole.  Eventually, this marriage destroys him."
+  },
+  {
+    "title": "Братья Карамазовы",
+    "author": "Фёдор Михайлович Достоевский",
+    "genre": "psychology",
+    "isbn": "OL24646215M",
+    "image": "https://covers.openlibrary.org/b/olid/OL24646215M-M.jpg",
+    "price": 15.99,
+    "inStock": true,
+    "description": "The Brothers Karamazov, Dostoevsky’s crowning achievement, is a tale of patricide and family rivalry that embodies the moral and spiritual dissolution of an entire society (Russia in the 1870s). It created a national furor comparable only to the excitement stirred by the publication, in 1866, of Crime and Punishment. To Dostoevsky, The Brothers Karamazov captured the quintessence of Russian character in all its exaltation, compassion, and profligacy. Significantly, the book was on Tolstoy’s bedside table when he died. Readers in every language have since accepted Dostoevsky’s own evaluation of this work and have gone further by proclaiming it one of the few great novels of all ages and countries.\r\n([source][1])"
+  },
+  {
+    "title": "Basil",
+    "author": "Wilkie Collins",
+    "genre": "psychology",
+    "isbn": "OL27889661M",
+    "image": "https://covers.openlibrary.org/b/olid/OL27889661M-M.jpg",
+    "price": 19.99,
+    "inStock": true,
+    "description": "No description available"
+  },
+  {
+    "title": "1st Report [Session 1993-94]",
+    "author": "Rand McNally",
+    "genre": "technology",
+    "isbn": "OL9991311M",
+    "image": "https://covers.openlibrary.org/b/olid/OL9991311M-M.jpg",
+    "price": 14.99,
+    "inStock": true,
+    "description": "No description available"
+  },
+  {
+    "title": "4th Report [Session 1993-94]",
+    "author": "Rand McNally",
+    "genre": "technology",
+    "isbn": "OL9990101M",
+    "image": "https://covers.openlibrary.org/b/olid/OL9990101M-M.jpg",
+    "price": 10.99,
+    "inStock": true,
+    "description": "No description available"
+  },
+  {
+    "title": "Leonardo",
+    "author": "Leonardo da Vinci",
+    "genre": "technology",
+    "isbn": "OL8633521M",
+    "image": "https://covers.openlibrary.org/b/olid/OL8633521M-M.jpg",
+    "price": 17.99,
+    "inStock": true,
+    "description": "Bill Gates bought the Codex Leicester a notebook of Leonardo da Vinci's scientific observations and theories in 1994 from the estate of Armand Hammer for $30.8 million. Last year Gates loaned the work to Australia's Powerhouse Museum, which prepared this companion to its exhibition. No longer in codex form (the pages were bound in the 1600s, but Gates had the binding dismantled for digital reproduction), the manuscript ranges over topics from fossils to astronomy. Each recto of this edition reproduces one of Leonardo's pages, written in mirror-script Italian with sketches jotted in the margins; a discussion (but not a translation) appears on the verso. It includes an introduction to Leonardo's life, but no index."
+  },
+  {
+    "title": "5th Report [Session 1995-96]",
+    "author": "Rand McNally",
+    "genre": "technology",
+    "isbn": "OL9994553M",
+    "image": "https://covers.openlibrary.org/b/olid/OL9994553M-M.jpg",
+    "price": 7.99,
+    "inStock": true,
+    "description": "No description available"
+  },
+  {
+    "title": "Prey",
+    "author": "Michael Crichton",
+    "genre": "technology",
+    "isbn": "OL32352096M",
+    "image": "https://covers.openlibrary.org/b/olid/OL32352096M-M.jpg",
+    "price": 23.99,
+    "inStock": true,
+    "description": "Prey is a novel by Michael Crichton, his thirteenth under his own name and twenty-third overall, first published in November 2002, making his first novel of the twenty-first century. The novel serves as a cautionary tale about developments in science and technology; in this case, nanotechnology, genetic engineering, and distributed artificial intelligence.\r\n\r\nThe book features relatively new advances in the computing/scientific community, such as artificial life, emergence (and by extension, complexity), genetic algorithms, and agent-based computing. Fields such as population dynamics and host-parasite coevolution are also at the heart of the novel.\r\n\r\n\r\n----------\r\n\r\n\r\nContains:\r\n[Prey [1/2]](https://openlibrary.org/works/OL28766164W)\r\n[Prey [2/2]](https://openlibrary.org/works/OL28766161W)\r\n\r\nAlso contained in:\r\n[Reader's Digest Condensed Books](https://openlibrary.org/works/OL26430990W)"
+  },
+  {
+    "title": "Timeline",
+    "author": "Michael Crichton",
+    "genre": "technology",
+    "isbn": "OL35716431M",
+    "image": "https://covers.openlibrary.org/b/olid/OL35716431M-M.jpg",
+    "price": 20.99,
+    "inStock": true,
+    "description": "Timeline is a science fiction novel by American writer Michael Crichton, his twelfth under his own name and twenty-second overall, published in November 1999. It tells the story of a group of history students who travel to 14th-century France to rescue their professor. The book follows in Crichton's long history of combining science, technical details, and action in his books, this time addressing quantum and multiverse theory."
+  },
+  {
+    "title": "State of Fear",
+    "author": "Michael Crichton",
+    "genre": "technology",
+    "isbn": "OL3423755M",
+    "image": "https://covers.openlibrary.org/b/olid/OL3423755M-M.jpg",
+    "price": 20.99,
+    "inStock": false,
+    "description": "State of Fear is a 2004 techno-thriller novel by Michael Crichton, his fourteenth under his own name and twenty-fourth overall, in which eco-terrorists plot mass murder to publicize the danger of global warming. Despite being a work of fiction, the book contains many graphs and footnotes, two appendices, and a 20-page bibliography in support of Crichton's beliefs about global warming. Many climate scientists, science journalists, environmental groups, and science advocacy organisations dispute Crichton's views on the science as being error-filled and distorted.\r\n\r\nThe novel had an initial print run of 1.5 million copies and reached the #1 bestseller position at Amazon and #2 on The New York Times Best Seller list for one week in January 2005. The novel itself has garnered mixed reviews, with some literary reviewers stating that the book's presentation of facts and stance on the global warming debate detracted from the book's plot."
+  },
+  {
+    "title": "One-Dimensional Man",
+    "author": "Herbert Marcuse",
+    "genre": "technology",
+    "isbn": "OL21661190M",
+    "image": "https://covers.openlibrary.org/b/olid/OL21661190M-M.jpg",
+    "price": 10.99,
+    "inStock": true,
+    "description": "**One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society** is a 1964 book by the philosopher Herbert Marcuse, in which the author offers a wide-ranging critique of both contemporary capitalism and the Communist society of the Soviet Union, documenting the parallel rise of new forms of social repression in both these societies, as well as the decline of revolutionary potential in the West. He argues that \"advanced industrial society\" created false needs, which integrated individuals into the existing system of production and consumption via mass media, advertising, industrial management, and contemporary modes of thought.\r\n\r\n(Source: [Wikipedia](https://en.wikipedia.org/wiki/One-Dimensional_Man))"
+  },
+  {
+    "title": "Sitzungsberichte der Philosophisch-historischen Classe",
+    "author": "Kaiserlichen Akademie der Wissenschaften in Wien, Mathematisch-Naturwissenschaftliche Klasse",
+    "genre": "technology",
+    "isbn": "OL20466981M",
+    "image": "https://covers.openlibrary.org/b/olid/OL20466981M-M.jpg",
+    "price": 18.99,
+    "inStock": true,
+    "description": "No description available"
+  },
+  {
+    "title": "Understanding Media",
+    "author": "Marshall McLuhan",
+    "genre": "technology",
+    "isbn": "OL24222743M",
+    "image": "https://covers.openlibrary.org/b/olid/OL24222743M-M.jpg",
+    "price": 12.99,
+    "inStock": true,
+    "description": "The author examines all types of communication including photographs, ads, games, television, radio, telephone, comics, numbers, money, clothing, movies, recordings, housing, and weapons."
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes [12 stories]",
+    "author": "Arthur Conan Doyle",
+    "genre": "mystery",
+    "isbn": "OL24349267M",
+    "image": "https://covers.openlibrary.org/b/olid/OL24349267M-M.jpg",
+    "price": 18.99,
+    "inStock": true,
+    "description": "The Adventures of Sherlock Holmes is a collection of twelve short stories by Arthur Conan Doyle, first published on 14 October 1892. It contains the earliest short stories featuring the consulting detective Sherlock Holmes, which had been published in twelve monthly issues of The Strand Magazine from July 1891 to June 1892. The stories are collected in the same sequence, which is not supported by any fictional chronology. The only characters common to all twelve are Holmes and Dr. Watson and all are related in first-person narrative from Watson's point of view.\r\n\r\n\r\nContains:\r\n[Scandal in Bohemia](https://openlibrary.org/works/OL14930611W/A_Scandal_in_Bohemia)\r\n[Red-headed League](https://openlibrary.org/works/OL14930336W/The_Red-Headed_League)\r\n[Case of Identity](https://openlibrary.org/works/OL14929939W/A_Case_of_Identity)\r\n[Boscombe Valley Mystery](https://openlibrary.org/works/OL18495288W/The_Boscombe_Valley_Mystery)\r\n[Five Orange Pips](https://openlibrary.org/works/OL1518120W/Five_Orange_Pips)\r\n[Man with the Twisted Lip](https://openlibrary.org/works/OL14930258W/The_Man_With_the_Twisted_Lip)\r\n[Adventure of the Blue Carbuncle](https://openlibrary.org/works/OL1518317W/Adventure_of_the_Blue_Carbuncle)\r\n[Adventure of the Speckled Band](https://openlibrary.org/works/OL262561W/Adventure_of_the_Speckled_Band)\r\n[Adventure of the Engineer's Thumb](https://openlibrary.org/works/OL1518318W/Adventure_of_the_Engineer's_Thumb)\r\n[Adventure of the Noble Bachelor](https://openlibrary.org/works/OL14929841W/Adventure_of_the_Noble_Bachelor)\r\n[Adventure of the Beryl Coronet](https://openlibrary.org/works/OL14929825W/Adventure_of_the_Beryl_Coronet)\r\n[Adventure of the Copper Beeches](https://openlibrary.org/works/OL1518116W/Adventure_of_the_Copper_Beeches)\r\n\r\n\r\n----------\r\nAlso contained in:\r\n\r\n - [Adventures and Memoirs of Sherlock Holmes](https://openlibrary.org/works/OL1518128W)\r\n - [Adventures of Sherlock Holmes](https://openlibrary.org/works/OL20624138W)\r\n - [Celebrated Cases of Sherlock Holmes](https://openlibrary.org/works/OL16076930W)\r\n - [Complete Sherlock Holmes](https://openlibrary.org/works/OL18188824W)\r\n - [Complete Sherlock Holmes: Volume I](https://openlibrary.org/works/OL14929975W)\r\n - [Illustrated Sherlock Holmes](https://openlibrary.org/works/OL1518342W)\r\n - [Obras completas de Conan Doyle: II](https://openlibrary.org/works/OL20787319W)\r\n - [Original Illustrated Sherlock Holmes](https://openlibrary.org/works/OL262528W)\r\n - [Original Illustrated 'Strand' Sherlock Holmes](https://openlibrary.org/works/OL262529W)\r\n - [Short Stories](https://openlibrary.org/works/OL18188661W)\r\n - [Works](https://openlibrary.org/works/OL16173818W)\r\n - [Works](https://openlibrary.org/works/OL14930383W)"
+  },
+  {
+    "title": "The Mysterious Affair at Styles",
+    "author": "Agatha Christie",
+    "genre": "mystery",
+    "isbn": "OL46918364M",
+    "image": "https://covers.openlibrary.org/b/olid/OL46918364M-M.jpg",
+    "price": 18.99,
+    "inStock": true,
+    "description": "Set in the summer of 1917 in an Essex country estate, the story follows the war-wounded Captain Arthur Hastings to the Styles St. Mary manor of his friend John Cavendish. The Cavendish household is wrought with tension due to the marriage of John's widowed old aunt Emily, she of a sizeable fortune, to a suspicious younger man, Alfred Inglethorp, twenty years her junior. Emily's two stepsons, John and Lawrence Cavendish, as well as John's wife Mary and several other people, also live at Styles. Late one night, the residents of Styles wake to find Emily Inglethorp dying. When Emily's sudden heart attack is found to be attributable to strychnine, Hastings, who had runs into his old friend, the Belgian Hercule Poirot, he recruits him to aid in the local investigation. With impeccable timing, Hercule Poirot, the insightful retired detective, makes his dramatic entrance to solve a most baffling case.\r\n\r\nWho poisoned the wealthy Emily Inglethorpe, and how did the murderer penetrate and escape from her locked bedroom? Suspects abound in the quaint village of Styles St. Mary--from the heiress's fawning new husband to her two stepsons, her volatile housekeeper, and a pretty nurse who works in a hospital dispensary. On the day she was killed, Emily Inglethorp was overheard arguing with someone, most likely her husband, Alfred, or her stepson, John. Afterwards, she seemed quite distressed and, apparently, made a new will--which no one can find. Nobody can explain how or when the strychnine was administered to Mrs. Inglethorp. High on Poirot's list of suspects are: John Cavendish, the elder stepson; Mary Cavendish, his wife; Lawrence Cavendish, the younger stepson; Evelyn Howard, Mrs. Inglethorpe's companion; Cynthia Murdoch, her protegee; and Dr. Bauerstein, a mysterious stranger who lives in Essex. All have motive and opportunity but only Poirot can discover the truth."
+  },
+  {
+    "title": "The Secret Adversary",
+    "author": "Agatha Christie",
+    "genre": "mystery",
+    "isbn": "OL51162345M",
+    "image": "https://covers.openlibrary.org/b/olid/OL51162345M-M.jpg",
+    "price": 16.99,
+    "inStock": true,
+    "description": "Tommy Beresford and Prudence 'Tuppence' Cowley are young, in love… and flat broke. Just after Great War, there are few jobs available and the couple are desperately short of money. Restless for excitement, they decide to embark on a daring business scheme: Young Adventurers Ltd.—\"willing to do anything, go anywhere.\" Hiring themselves out proves to be a smart move for the couple. In their first assignment for the mysterious Mr. Whittingtont, all Tuppence has to do in their first job is take an all-expense paid trip to Paris and pose as an American named Jane Finn. But with the assignment comes a bribe to keep quiet, a threat to her life, and the disappearance of her new employer. Now their newest job are playing detective.\r\n\r\nWhere is the real Jane Finn? The mere mention of her name produces a very strange reaction all over London. So strange, in fact, that they decided to find this mysterious missing lady. She has been missing for five years. And neither her body nor the secret documents she was carrying have ever been found. Now post-war England's economic recovery depends on finding her and getting the papers back. But he two young working undercover for the British ministry know only that her name and the only photo of her is in the hands of her rich American cousin. It isn’t long before they find themselves plunged into more danger than they ever could have imagined—a danger that could put an abrupt end to their business… and their lives."
+  },
+  {
+    "title": "The mystery of Edwin Drood",
+    "author": "Charles Dickens",
+    "genre": "mystery",
+    "isbn": "OL6323900M",
+    "image": "https://covers.openlibrary.org/b/olid/OL6323900M-M.jpg",
+    "price": 24.99,
+    "inStock": true,
+    "description": "The Mystery of Edwin Drood is the final, uncompleted novel by Charles Dickens. John Jasper is a choirmaster who is in love with one of his pupils, Rosa Bud. She is the fiancee of his nephew, Edwin Drood. A hot-tempered man from Ceylon also becomes interested in her and he and Drood take an instant dislike to one another. Later, Drood disappears, and as Dickens never finished the novel, Drood's fate remains a mystery indeed."
+  },
+  {
+    "title": "His Last Bow [8 stories]",
+    "author": "Arthur Conan Doyle",
+    "genre": "mystery",
+    "isbn": "OL6603034M",
+    "image": "https://covers.openlibrary.org/b/olid/OL6603034M-M.jpg",
+    "price": 23.99,
+    "inStock": true,
+    "description": "The adventure of Wisteria lodge.--The adventure of the cardboard box.--The adventure of the red circle.--The adventure of the Bruce-Partington plans.--The adventure of the dying detective.--The disappearance of Lady Frances Carfax.--The adventure of the devil's foot.--His last bow."
+  },
+  {
+    "title": "The Riddle of the Sands",
+    "author": "Erskine Childers",
+    "genre": "mystery",
+    "isbn": "OL9481369M",
+    "image": "https://covers.openlibrary.org/b/olid/OL9481369M-M.jpg",
+    "price": 20.99,
+    "inStock": false,
+    "description": "Childers's lone masterpiece, THE RIDDLE OF THE SANDS, considered the first modern spy thriller, is recognisable as the brilliant forerunner of the realism of Graham Greene and John le Carre. Its unique flavour comes from its fine characterization,richly authentic background of inshore sailing and vivid evocation of the late 1890s - an atmosphere of mutual suspicion and intrigue that was soon to lead to war."
+  },
+  {
+    "title": "The Man Who Was Thursday",
+    "author": "Gilbert Keith Chesterton",
+    "genre": "mystery",
+    "isbn": "OL22885940M",
+    "image": "https://covers.openlibrary.org/b/olid/OL22885940M-M.jpg",
+    "price": 5.99,
+    "inStock": true,
+    "description": "Can you trust yourself when you don't know who you are? Syme uses his new acquaintance to go undercover in Europe's Central Anarchist Council and infiltrate their deadly mission, even managing to have himself voted to the position of 'Thursday'. In a park in London, secret policeman Gabriel Syme strikes up a conversation with an anarchist. Sworn to do his duty,When Syme discovers another undercover policeman on the Council, however, he starts to question his role in their operations. And as a desperate chase across Europe begins, his confusion grows, as well as his confidence in his ability to outwit his enemies.But he has still to face the greatest terror that the Council has - its leader: a man named Sunday, whose true nature is worse than Syme could ever have imagined ..."
+  },
+  {
+    "title": "Heart of Darkness",
+    "author": "Joseph Conrad",
+    "genre": "mystery",
+    "isbn": "OL35601698M",
+    "image": "https://covers.openlibrary.org/b/olid/OL35601698M-M.jpg",
+    "price": 18.99,
+    "inStock": false,
+    "description": "Heart of Darkness (1899) is a novella by Polish-English novelist Joseph Conrad, about a voyage up the Congo River into the Congo Free State, in the heart of Africa, by the story's narrator Charles Marlow. Marlow tells his story to friends aboard a boat anchored on the River Thames. Joseph Conrad is one of the greatest English writers, and Heart of Darkness is considered his best.  His readers are brought to face our psychological selves to answer, ‘Who is the true savage?’. Originally published in 1902, Heart of Darkness remains one of this century’s most enduring works of fiction. Written several years after Joseph Conrad’s grueling sojourn in the Belgian Congo, the novel is a complex meditation on colonialism, evil, and the thin line between civilization and barbarity."
+  },
+  {
+    "title": "Преступление и наказание",
+    "author": "Фёдор Михайлович Достоевский",
+    "genre": "mystery",
+    "isbn": "OL9004678M",
+    "image": "https://covers.openlibrary.org/b/olid/OL9004678M-M.jpg",
+    "price": 13.99,
+    "inStock": true,
+    "description": "From [wikipedia][1]:\r\n\r\nCrime and Punishment (Russian: Преступлéние и наказáние, tr. Prestupleniye i nakazaniye; IPA: [prʲɪstʊˈplʲenʲə ɪ nəkɐˈzanʲə]) is a novel by the Russian author Fyodor Dostoyevsky. It was first published in the literary journal The Russian Messenger in twelve monthly installments during 1866.[1] It was later published in a single volume. It is the second of Dostoyevsky's full-length novels following his return from ten years of exile in Siberia. Crime and Punishment is considered the first great novel of his \"mature\" period of writing.[2]\r\n\r\nCrime and Punishment focuses on the mental anguish and moral dilemmas of Rodion Raskolnikov, an impoverished ex-student in St. Petersburg who formulates and executes a plan to kill an unscrupulous pawnbroker for her cash. Raskolnikov argues that with the pawnbroker's money he can perform good deeds to counterbalance the crime, while ridding the world of a worthless vermin. He also commits this murder to test his own hypothesis that some people are naturally capable of such things, and even have the right to do them. Several times throughout the novel, Raskolnikov justifies his actions by comparing himself with Napoleon Bonaparte, believing that murder is permissible in pursuit of a higher purpose.\r\n\r\n\r\n----------\r\nSee also: \r\n\r\n - [Преступлéние и наказáние: 1/2](https://openlibrary.org/works/OL7998899W/Prestuplenie_i_nakazanie._1_2)\r\n\r\n  [1]: https://en.wikipedia.org/wiki/Crime_and_Punishment"
+  },
+  {
+    "title": "Greenmantle",
+    "author": "John Buchan",
+    "genre": "mystery",
+    "isbn": "OL9300408M",
+    "image": "https://covers.openlibrary.org/b/olid/OL9300408M-M.jpg",
+    "price": 10.99,
+    "inStock": true,
+    "description": "In Greenmantle (1916) Richard Hannay, hero of The Thirty-Nine Steps, travels across war-torn Europe in search of a German plot and an Islamic Messiah. He is joined by three more of Buchan's heroes: Peter Pienaar, the old Boer Scout; John S. Blenkiron, the American determined to fight the Kaiser; and Sandy Arbuthnot, Greenmantle himself, modelled on Lawrence of Arabia. The intrepid four move in disguise through Germany to Constantinople and the Russian border toface their enemies: the grotesque Stumm and the evil beauty of Hilda von Einem."
+  },
+  {
+    "title": "Frankenstein or The Modern Prometheus",
+    "author": "Mary Shelley",
+    "genre": "horror",
+    "isbn": "OL35649409M",
+    "image": "https://covers.openlibrary.org/b/olid/OL35649409M-M.jpg",
+    "price": 8.99,
+    "inStock": true,
+    "description": "*Frankenstein; or, The Modern Prometheus* is an 1818 novel written by English author Mary Shelley. Frankenstein tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment. Shelley started writing the story when she was 18, and the first edition was published anonymously in London on 1 January 1818, when she was 20. Her name first appeared in the second edition, which was published in Paris in 1821."
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "horror",
+    "isbn": "OL35373336M",
+    "image": "https://covers.openlibrary.org/b/olid/OL35373336M-M.jpg",
+    "price": 15.99,
+    "inStock": true,
+    "description": "Sink your teeth into the ageless tale of the famous vampire Count Dracula.\r\n\r\nDracula first horrified readers over 125 years ago. Today, this original gothic masterpiece includes a detailed exploration into the 1897 classic vampire novel and its author, Bram Stoker.\r\n\r\nIn this bonus introduction,\r\n\r\nLearn about Stoker’s early life, his colorful career, and the famous friends he made leading up to the creation of his magnum opus, Dracula.\r\nTune into the speculative theories of Stoker’s personal life and his deeply repressed homosexual tendencies.\r\nDelve deep into the folklore and mysticism that inspired Dracula, the masterful work itself, and the lasting impact it continues to have on pop culture.\r\nThis annotated introduction accompanying this classic novel is essential for all fans of Bram Stoker’s Dracula. I welcome you, the reader, as Count Dracula beckoned Jonathan Harker:\r\n\r\n“Welcome to my house. Enter freely and at your own free will.”"
+  },
+  {
+    "title": "The Jewel of Seven Stars",
+    "author": "Bram Stoker",
+    "genre": "horror",
+    "isbn": "OL11684364M",
+    "image": "https://covers.openlibrary.org/b/olid/OL11684364M-M.jpg",
+    "price": 11.99,
+    "inStock": false,
+    "description": "This dark fantasy Bram Stoker book is full of suspense.  Set in ancient Egypt, it will keep you on the edge of your seat with a twist Please Note:  This book is easy to read in true text, not scanned images that can sometimes be difficult to decipher.  This eBook has bookmarks at chapter headings and is printable up to two full copies per year.at the end.  A must for Bram Stoker fans."
+  },
+  {
+    "title": "The Turn of the Screw",
+    "author": "Henry James",
+    "genre": "horror",
+    "isbn": "OL9492220M",
+    "image": "https://covers.openlibrary.org/b/olid/OL9492220M-M.jpg",
+    "price": 21.99,
+    "inStock": false,
+    "description": "The governess of two enigmatic children fears their souls are in danger from the ghosts of the previous governess and her sinister lover."
+  },
+  {
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "author": "Robert Louis Stevenson",
+    "genre": "horror",
+    "isbn": "OL3682767M",
+    "image": "https://covers.openlibrary.org/b/olid/OL3682767M-M.jpg",
+    "price": 9.99,
+    "inStock": false,
+    "description": "Stevenson’s famous gothic novella, first published in 1886, and filmed countless times is better known simply as Jekyll and Hyde. The first novel to toy with the idea of a split personality, it features the respectable Dr. Jekyll transforming himself into the evil Mr Hyde in a failed attempt to learn more about the duality of man."
+  },
+  {
+    "title": "Herland",
+    "author": "Charlotte Perkins Gilman",
+    "genre": "horror",
+    "isbn": "OL7775518M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7775518M-M.jpg",
+    "price": 15.99,
+    "inStock": false,
+    "description": "On the eve of WWI, three American male explorers stumble onto an all-female society somewhere in the distant reaches of the earth. Unable to believe their eyes, they promptly set out to find some men, convinced that since this is a civilized country--there must be men. So begins this sparkling utopian novel, a romp through a whole world \"masculine\" and \"feminine\", as on target today as when it was written 65 years ago."
+  },
+  {
+    "title": "Carmilla",
+    "author": "Joseph Sheridan Le Fanu",
+    "genre": "horror",
+    "isbn": "OL8864633M",
+    "image": "https://covers.openlibrary.org/b/olid/OL8864633M-M.jpg",
+    "price": 15.99,
+    "inStock": false,
+    "description": "https://openlibrary.org/works/OL2895536W"
+  },
+  {
+    "title": "The Great God Pan",
+    "author": "Arthur Machen",
+    "genre": "horror",
+    "isbn": "OL8651720M",
+    "image": "https://covers.openlibrary.org/b/olid/OL8651720M-M.jpg",
+    "price": 5.99,
+    "inStock": true,
+    "description": "Arthur Machen's first book, THE GREAT GOD PAN, published in 1894, is still one of the greatest works of weird horror and decadence ever produced. Arthur Machen with his taste for the bizarre and macabre, unfurls the tale of a young girl cursed by her unnatural parentage to become a creature of shape-shifting, poly-sexual, demi-human evil."
+  },
+  {
+    "title": "Tales of Terror and Mystery",
+    "author": "Arthur Conan Doyle",
+    "genre": "horror",
+    "isbn": "OL24221283M",
+    "image": "https://covers.openlibrary.org/b/olid/OL24221283M-M.jpg",
+    "price": 18.99,
+    "inStock": false,
+    "description": "From the book:The idea that the extraordinary narrative which has been called the Joyce-Armstrong Fragment is an elaborate practical joke evolved by some unknown person, cursed by a perverted and sinister sense of humour, has now been abandoned by all who have examined the matter. The most macabre and imagi-native of plotters would hesitate before linking his morbid fancies with the unquestioned and tragic facts which reinforce the statement. Though the assertions contained in it are amazing and even monstrous, it is none the less forcing itself upon the general intelligence that they are true, and that we must readjust our ideas to the new situation. This world of ours appears to be separated by a slight and precarious margin of safety from a most singular and unexpected danger. I will endeavour in this narrative, which reproduces the original document in its necessarily somewhat fragmentary form, to lay before the reader the whole of the facts up to date, prefacing my statement by saying that, if there be any who doubt the narrative of Joyce-Armstrong, there can be no question at all as to the facts concerning Lieutenant Myrtle, R. N., and Mr. Hay Connor, who undoubtedly met their end in the manner described.\r\n\r\n\r\n----------\r\nContains:\r\n\r\n - Tales of Terror\r\n\r\nThe Horror of the Heights\r\nThe Leather Funnel\r\nThe New Catacomb\r\nThe Case of Lady Sannox\r\nThe Terror of Blue John Gap\r\nThe Brazilian Cat\r\n\r\n - Tales of Mystery\r\n\r\nThe Lost Special\r\nThe Beetle-Hunter\r\nThe Man with the Watches\r\nThe Japanned Box\r\nThe Black Doctor\r\nThe Jew's Breastplate"
+  },
+  {
+    "title": "Carrie",
+    "author": "Stephen King",
+    "genre": "horror",
+    "isbn": "OL27902097M",
+    "image": "https://covers.openlibrary.org/b/olid/OL27902097M-M.jpg",
+    "price": 13.99,
+    "inStock": true,
+    "description": "The story of misfit high-school girl, Carrie White, who gradually discovers that she has telekinetic powers. Repressed by a domineering, ultra-religious mother and tormented by her peers at school, her efforts to fit in lead to a dramatic confrontation during the senior prom. \r\n([source][1])\r\n\r\n\r\n----------\r\nAlso contained in:\r\n\r\n - [The Shining / 'Salem's Lot / Night Shift / Carrie][2]\r\n\r\n\r\n----------\r\nSee also:\r\n\r\n - [Selected from Carrie][3]\r\n\r\n\r\n  [1]: https://stephenking.com/library/novel/carrie.html\r\n  [2]: https://openlibrary.org/works/OL19558521W\r\n  [3]: https://openlibrary.org/works/OL11018609W/Selected_from_Carrie"
+  },
+  {
+    "title": "Gulliver's Travels",
+    "author": "Jonathan Swift",
+    "genre": "adventure",
+    "isbn": "OL26445784M",
+    "image": "https://covers.openlibrary.org/b/olid/OL26445784M-M.jpg",
+    "price": 22.99,
+    "inStock": true,
+    "description": "A parody of traveler’s tales and a satire of human nature, “Gulliver’s Travels” is Jonathan Swift’s most famous work which was first published in 1726. An immensely popular tale ever since its original publication, “Gulliver’s Travels” is the story of its titular character, Lemuel Gulliver, a man who loves to travel. A series of four journeys are detailed in which Gulliver finds himself in a number of amusing and precarious situations. In the first voyage, Gulliver is imprisoned by a race of tiny people, the Lilliputians, when following a shipwreck he is washed upon the shores of their island country. In his second voyage Gulliver finds himself abandoned in Brobdingnag, a land of giants, where he is exhibited for their amusement. In his third voyage, Gulliver once again finds himself marooned; fortunately he is rescued by the flying island of Laputa, a kingdom devoted to the arts of music and mathematics. He subsequently travels to the surrounding lands of Balnibarbi, Luggnagg, Glubbdubdrib, and Japan. Finally in his last voyage, when he is set adrift by a mutinous crew, he finds himself in the curious Country of the Houyhnhnms. Through the various experiences of Gulliver, Swift brilliantly satirizes the political and cultural environment of his time in addition to creating a lasting and enchanting tale of fantasy. This edition is illustrated by Milo Winter and includes an introduction by George R. Dennis."
+  },
+  {
+    "title": "Ἰλιάς",
+    "author": "Όμηρος",
+    "genre": "adventure",
+    "isbn": "OL24809573M",
+    "image": "https://covers.openlibrary.org/b/olid/OL24809573M-M.jpg",
+    "price": 19.99,
+    "inStock": true,
+    "description": "This long-awaited new edition of Lattimore's Iliad is designed to bring the book into the twenty-first century—while leaving the poem as firmly rooted in ancient Greece as ever. Lattimore's elegant, fluent verses—with their memorably phrased heroic epithets and remarkable fidelity to the Greek—remain unchanged, but classicist Richard Martin has added a wealth of supplementary materials designed to aid new generations of readers. A new introduction sets the poem in the wider context of Greek life, warfare, society, and poetry, while line-by-line notes at the back of the volume offer explanations of unfamiliar terms, information about the Greek gods and heroes, and literary appreciation. A glossary and maps round out the book.\r\n\r\n\r\n\r\nThe result is a volume that actively invites readers into Homer's poem, helping them to understand fully the worlds in which he and his heroes lived—and thus enabling them to marvel, as so many have for centuries, at Hektor and Ajax, Paris and Helen, and the devastating rage of Achilleus."
+  },
+  {
+    "title": "The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "genre": "adventure",
+    "isbn": "OL34596309M",
+    "image": "https://covers.openlibrary.org/b/olid/OL34596309M-M.jpg",
+    "price": 15.99,
+    "inStock": false,
+    "description": "Mark Twain created the memorable characters Tom Sawyer and Huckleberry Finn drawing from the experiences of boys he grew up with in Missouri. Set by the Mississippi River in the 1840's, it follows these boys as they get into predicament after predicament. Tom's classic whitewashing of the fence has become part of American legend, and the book paints a nostalgic picture of life in the middle of the nineteenth century. Tom runs away from home to an island in the river, chases Injun Joe and his treasure, and even gets trapped in a cave for days with Becky Thatcher. The book is one of Twain's most beloved stories."
+  },
+  {
+    "title": "The Prisoner of Zenda",
+    "author": "Anthony Hope",
+    "genre": "adventure",
+    "isbn": "OL7357137M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7357137M-M.jpg",
+    "price": 8.99,
+    "inStock": true,
+    "description": "An adventure novel, originally published in 1894, set in the fictitious European Kingdom of Ruritania. An English tourist is persuaded to impersonate the new king after he is abducted before he can be crowned. This act draws upon him the wrath of the Prince who has had the king abducted and his partner in crime the villainous Rupert of Hentzau."
+  },
+  {
+    "title": "The Scarlet Pimpernel",
+    "author": "Emmuska Orczy, Baroness Orczy",
+    "genre": "adventure",
+    "isbn": "OL3318204M",
+    "image": "https://covers.openlibrary.org/b/olid/OL3318204M-M.jpg",
+    "price": 15.99,
+    "inStock": true,
+    "description": "The Scarlet Pimpernel (1905) is a play and adventure novel by Baroness Emmuska Orczy set during the Reign of Terror following the start of the French Revolution."
+  },
+  {
+    "title": "The Coral Island",
+    "author": "Robert Michael Ballantyne",
+    "genre": "adventure",
+    "isbn": "OL7204936M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7204936M-M.jpg",
+    "price": 6.99,
+    "inStock": false,
+    "description": "A nineteenth century adventure story of three teenaged boys shipwrecked on a Pacific island. At first they lead an idyllic life but this is soon interrupted by the arrival on the island of rival Polynesian war parties and then pirates. After various adventures the boys find themselves in possession of the pirate’s ship and can sail for home."
+  },
+  {
+    "title": "Le Tour du Monde en Quatre-Vingts Jours",
+    "author": "Jules Verne",
+    "genre": "adventure",
+    "isbn": "OL7050533M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7050533M-M.jpg",
+    "price": 8.99,
+    "inStock": true,
+    "description": "Phileas Fogg, a very punctual man had broken into an argument while conversing about the recent bank robbery. To keep his word of proving that he would travel around the world in 80 days and win the bet, he sets on a long trip, where he is joined by a few other people on the way. A wonderful adventure is about to begin!"
+  },
+  {
+    "title": "Vingt mille lieues sous les mers",
+    "author": "Jules Verne",
+    "genre": "adventure",
+    "isbn": "OL24245739M",
+    "image": "https://covers.openlibrary.org/b/olid/OL24245739M-M.jpg",
+    "price": 22.99,
+    "inStock": true,
+    "description": "A nineteenth-century science fiction tale of an electric submarine, its eccentric captain, and undersea world, which anticipated many of the scientific achievements of the twentieth century."
+  },
+  {
+    "title": "Le petit prince",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "adventure",
+    "isbn": "OL7366018M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7366018M-M.jpg",
+    "price": 15.99,
+    "inStock": true,
+    "description": "*Le Petit Prince* est une œuvre de langue française, la plus connue d'Antoine de Saint-Exupéry. Publié en 1943 à New York simultanément à sa traduction anglaise, c'est une œuvre poétique et philosophique sous l'apparence d'un conte pour enfants.\r\n\r\nTraduit en quatre cent cinquante-sept langues et dialectes, *Le Petit Prince* est le deuxième ouvrage le plus traduit au monde après la Bible.\r\n\r\nLe langage, simple et dépouillé, parce qu'il est destiné à être compris par des enfants, est en réalité pour le narrateur le véhicule privilégié d'une conception symbolique de la vie. Chaque chapitre relate une rencontre du petit prince qui laisse celui-ci perplexe, par rapport aux comportements absurdes des « grandes personnes ». Ces différentes rencontres peuvent être lues comme une allégorie.\r\n\r\nLes aquarelles font partie du texte et participent à cette pureté du langage : dépouillement et profondeur sont les qualités maîtresses de l'œuvre.\r\n\r\nOn peut y lire une invitation de l'auteur à retrouver l'enfant en soi, car « toutes les grandes personnes ont d'abord été des enfants. (Mais peu d'entre elles s'en souviennent.) ». L'ouvrage est dédié à Léon Werth, mais « quand il était petit garçon ».\r\n\r\n(Wikipedia)"
+  },
+  {
+    "title": "Kidnapped",
+    "author": "Robert Louis Stevenson",
+    "genre": "adventure",
+    "isbn": "OL9015132M",
+    "image": "https://covers.openlibrary.org/b/olid/OL9015132M-M.jpg",
+    "price": 12.99,
+    "inStock": false,
+    "description": "KIDNAPPED is an adventure story that has become the model for any thriller of escape and suspense. \r\n\r\nSet in 1751, the flight of David Balfour and Alan Breck across the Highlands of Scotland is based on real events. Though he wrote the book to make money, while living as an invalid in Bournemouth. Stevenson was proud of it; he inscribed a presentation copy with the couplet. Here is the one sound page of all my writing. The one I'm proud of and that I delight in. Rowland Hilder is famous for his paintings of the English countryside but his work in book illustration covered a much wider canvas. His drawing for KIDNAPPED were first published in 1930 and have undeservedly, been long out of print.\r\n\r\nA sixteen-year-old orphan is kidnapped by his villainous uncle, but later escapes and becomes involved in the struggle of the Scottish highlanders against English rule."
+  },
+  {
+    "title": "Divina Commedia",
+    "author": "Dante Alighieri",
+    "genre": "poetry",
+    "isbn": "OL14081259M",
+    "image": "https://covers.openlibrary.org/b/olid/OL14081259M-M.jpg",
+    "price": 19.99,
+    "inStock": false,
+    "description": "De goddelijke komedie is de beschrijving van een denkbeeldige tocht door het hiernamaals. Zij heeft drie delen: de hel, het vagevuur en het paradijs en ieder van deze delen heeft drieëndertig zangen van niet geheel gelijke lengte, terwijl aan het eerste deel nog een inleidende zang voorafgaat, waardoor het totale aantal van de zang honderd bedraagt. Dit aantal is geen toevalligheid. Het getal honderd gold in de middeleeuwse getallensymboliek, waarvan ook Dante een naarstig beoefenaar was, als het zinnebeeld van de volmaaktheid. Drie is het getal van de personen der heilige drie-eenheid, drieëndertig is het aantal jaren van Jezus' aardse leven. \r\n\r\nIn de eerste zang van De goddelijke komedie is Dante verdwaald in een donker woud en terwijl hij wanhopig naar hulp uitziet ontmoet hij daar de Latijnse dichter Vergilius. Samen verlaten zij het aardoppervlak en dalen af naar de hel, die voorgesteld wordt als een systeem van concentrische, zich steeds verder vernauwende kringen, een soort geringde trechter, die tenslotte in het middelpunt van de aarde eindigt. Daar zit Lucifer in het ijs, met zijn hoofd naar ons halfrond toe en met zijn voeten naar het zuidelijk halfrond gekeerd. \r\n\r\nTussen het ijs en Lucifer vinden Dante en Vergilius een weg langs het middelpunt van de aarde en stijgen dan weer op naar het zuidelijk halfrond. Zij bereiken een eiland, waar zich een hoge berg verheft, de louteringsberg van het vagevuur, waar de zielen die in staat van genade zijn gestorven, maar hun aardse schulden nog niet hebben uitgeboet, geleidelijk gelouterd worden en opstijgen naar de hemelse zaligheid. Deze berg, een soort tegenbeeld van de hel, heeft langs zijn flanken steeds nauwer wordende gaanderijen. Daarlangs stijgen Dante en Vergilius opwaarts naar de top, waar zich het aardse paradijs bevindt. \r\n\r\nWanneer zij daar zijn aangekomen, wordt Vergilius als Dante's geleider afgelost door Beatrice. Samen met Beatrice stijgt Dante nu opwaarts naar het paradijs. De eeuwige woonplaats van de zaligen bestraald door het licht van God."
+  },
+  {
+    "title": "Ἰλιάς",
+    "author": "Όμηρος",
+    "genre": "poetry",
+    "isbn": "OL24809573M",
+    "image": "https://covers.openlibrary.org/b/olid/OL24809573M-M.jpg",
+    "price": 13.99,
+    "inStock": true,
+    "description": "This long-awaited new edition of Lattimore's Iliad is designed to bring the book into the twenty-first century—while leaving the poem as firmly rooted in ancient Greece as ever. Lattimore's elegant, fluent verses—with their memorably phrased heroic epithets and remarkable fidelity to the Greek—remain unchanged, but classicist Richard Martin has added a wealth of supplementary materials designed to aid new generations of readers. A new introduction sets the poem in the wider context of Greek life, warfare, society, and poetry, while line-by-line notes at the back of the volume offer explanations of unfamiliar terms, information about the Greek gods and heroes, and literary appreciation. A glossary and maps round out the book.\r\n\r\n\r\n\r\nThe result is a volume that actively invites readers into Homer's poem, helping them to understand fully the worlds in which he and his heroes lived—and thus enabling them to marvel, as so many have for centuries, at Hektor and Ajax, Paris and Helen, and the devastating rage of Achilleus."
+  },
+  {
+    "title": "Ὀδύσσεια",
+    "author": "Όμηρος",
+    "genre": "poetry",
+    "isbn": "OL27593427M",
+    "image": "https://covers.openlibrary.org/b/olid/OL27593427M-M.jpg",
+    "price": 11.99,
+    "inStock": false,
+    "description": "The Odyssey (/ˈɒdəsi/; Greek: Ὀδύσσεια, Odýsseia) is one of two major ancient Greek epic poems attributed to Homer. It is, in part, a sequel to the Iliad, the other work ascribed to Homer. The poem is fundamental to the modern Western canon, and is the second oldest extant work of Western literature, the Iliad being the oldest. Scholars believe it was composed near the end of the 8th century BC, somewhere in Ionia, the Greek coastal region of Anatolia. - [Wikipedia][1]\r\n\r\n  [1]: https://en.wikipedia.org/wiki/Odyssey"
+  },
+  {
+    "title": "A Midsummer Night's Dream",
+    "author": "William Shakespeare",
+    "genre": "poetry",
+    "isbn": "OL24594641M",
+    "image": "https://covers.openlibrary.org/b/olid/OL24594641M-M.jpg",
+    "price": 9.99,
+    "inStock": true,
+    "description": "One night two young couples run into an enchanted forest in an attempt to escape their problems. But these four humans do not realize that the forest is filled with fairies and hobgoblins who love making mischief. When Oberon, the Fairy King, and his loyal hobgoblin servant, Puck, intervene in human affairs, the fate of these young couples is magically and hilariously transformed. Like a classic fairy tale, this retelling of William Shakespeare's most beloved comedy is perfect for older readers who will find much to treasure and for younger readers who will love hearing the story read aloud."
+  },
+  {
+    "title": "The Canterbury Tales",
+    "author": "Geoffrey Chaucer",
+    "genre": "poetry",
+    "isbn": "OL7146598M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7146598M-M.jpg",
+    "price": 9.99,
+    "inStock": true,
+    "description": "A collection of stories written in Middle English by Geoffrey Chaucer at the end of the 14th century. The tales (mostly in verse, although some are in prose) are told as part of a story-telling contest by a group of pilgrims as they travel together on a journey from Southwark to the shrine of Saint Thomas Becket at Canterbury Cathedral. In a long list of works, including Troilus and Criseyde, House of Fame, and Parliament of Fowls, The Canterbury Tales was Chaucer's magnum opus. He uses the tales and the descriptions of the characters to paint an ironic and critical portrait of English society at the time, and particularly of the Church. Structurally, the collection bears the influence of The Decameron, which Chaucer is said to have come across during his first diplomatic mission to Italy in 1372. However, Chaucer peoples his tales with 'sondry folk' rather than Boccaccio's fleeing nobles."
+  },
+  {
+    "title": "Faust",
+    "author": "Johann Wolfgang von Goethe",
+    "genre": "poetry",
+    "isbn": "OL24206900M",
+    "image": "https://covers.openlibrary.org/b/olid/OL24206900M-M.jpg",
+    "price": 17.99,
+    "inStock": true,
+    "description": "71 p"
+  },
+  {
+    "title": "Sonnets",
+    "author": "William Shakespeare",
+    "genre": "poetry",
+    "isbn": "OL6552577M",
+    "image": "https://covers.openlibrary.org/b/olid/OL6552577M-M.jpg",
+    "price": 5.99,
+    "inStock": true,
+    "description": "\"I feel that I have spent half my career with one or another Pelican Shakespeare in my back pocket. Convenience, however, is the least important aspect of the new Pelican Shakespeare series. Here is an elegant and clear text for either the study or the rehearsal room, notes where you need them and the distinguished scholarship of the general editors, Stephen Orgel and A. R. Braunmuller who understand that these are plays for performance as well as great texts for contemplation.\" (Patrick Stewart)"
+  },
+  {
+    "title": "De rerum natura",
+    "author": "Titus Lucretius Carus",
+    "genre": "poetry",
+    "isbn": "OL7870148M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7870148M-M.jpg",
+    "price": 14.99,
+    "inStock": true,
+    "description": "This is regarded as a seminal text of Epicurean science and philosophy. Epicurians discarded both the idea of immortality and the superstitious worship of wilful gods for a life of serene contentment in the available pleasures of nature. Lucretius (c100-c55BC), in elucidating this belief, steers the reader through an extraordinary breadth of subject matter, ranging from the indestructibility of atoms and the discovery of fire to the folly of romantic love and the phenomena of clouds and rainstorms."
+  },
+  {
+    "title": "Metamorphoses",
+    "author": "Ovid",
+    "genre": "poetry",
+    "isbn": "OL24441769M",
+    "image": "https://covers.openlibrary.org/b/olid/OL24441769M-M.jpg",
+    "price": 23.99,
+    "inStock": true,
+    "description": "The Metamorphoses is a narrative poem penned by the Roman poet Ovid. Widely considered to be his ultimate work, comprising fifteen books and over 250 myths. The poem portrays a history of the world from creation up to the deification of Julius Caesar. Metamorphoses is viewed as one of the most influential works in Western culture, inspiring authors such as Dante, Shakespeare, Chaucer, and Boccaccio. It has also inspired countless works of art from various artists throughout the centuries."
+  },
+  {
+    "title": "Aeneis",
+    "author": "Publius Vergilius Maro",
+    "genre": "poetry",
+    "isbn": "OL25090795M",
+    "image": "https://covers.openlibrary.org/b/olid/OL25090795M-M.jpg",
+    "price": 24.99,
+    "inStock": true,
+    "description": "\"A prose translation of Vergil's Aeneid with new illustrations and informational appendices\"--Provided by publisher."
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "genre": "children",
+    "isbn": "OL31754751M",
+    "image": "https://covers.openlibrary.org/b/olid/OL31754751M-M.jpg",
+    "price": 5.99,
+    "inStock": true,
+    "description": "Alice's Adventures in Wonderland (commonly Alice in Wonderland) is an 1865 English children's novel by Lewis Carroll. A young girl named Alice falls through a rabbit hole into a fantasy world of anthropomorphic creatures. It is seen as an example of the literary nonsense genre.\r\n\r\nOne of the best-known works of Victorian literature, its narrative, structure, characters and imagery have had huge influence on popular culture and literature, especially in the fantasy genre."
+  },
+  {
+    "title": "The Wonderful Wizard of Oz",
+    "author": "L. Frank Baum",
+    "genre": "children",
+    "isbn": "OL8155451M",
+    "image": "https://covers.openlibrary.org/b/olid/OL8155451M-M.jpg",
+    "price": 13.99,
+    "inStock": false,
+    "description": "Over a century after its initial publication, The Wonderful Wizard of Oz is still captivating the hearts of countless readers. Come adventure with Dorothy and her three friends: the Scarecrow, the Tin Woodman, and the Cowardly Lion, as they follow the Yellow Brick Road to the Emerald City for an audience with the Great Oz, the mightiest Wizard in the land, and the only one that can return Dorothy to her home in Kansas."
+  },
+  {
+    "title": "Through the Looking-Glass",
+    "author": "Lewis Carroll",
+    "genre": "children",
+    "isbn": "OL21298716M",
+    "image": "https://covers.openlibrary.org/b/olid/OL21298716M-M.jpg",
+    "price": 17.99,
+    "inStock": true,
+    "description": "*Through the Looking-Glass, and What Alice Found There* (1871) is a work of children's literature by Lewis Carroll (Charles Lutwidge Dodgson), generally categorized in the fairy tale genre. It is the sequel to *Alice's Adventures in Wonderland* (1865). Although it makes no reference to the events in the earlier book, the themes and settings of *Through the Looking-Glass* make it a kind of mirror image of Wonderland: the first book begins outdoors, in the warm month of May, uses frequent changes in size as a plot device, and draws on the imagery of playing cards; the second opens indoors on a snowy, wintry night exactly six months later, on November 4 (the day before Guy Fawkes Night), uses frequent changes in time and spatial directions as a plot device, and draws on the imagery of chess. In it, there are many mirror themes, including opposites, time running backwards, and so on. ([Wikipedia][1])\r\n\r\n\r\n  [1]: http://en.wikipedia.org/wiki/Through_the_Looking-Glass"
+  },
+  {
+    "title": "Five Children and It",
+    "author": "Edith Nesbit",
+    "genre": "children",
+    "isbn": "OL9232844M",
+    "image": "https://covers.openlibrary.org/b/olid/OL9232844M-M.jpg",
+    "price": 12.99,
+    "inStock": true,
+    "description": "Haven't you ever thought what you would wish for if you were granted three wishes? In Nesbit's delightful classic, five siblings find a creature that grants their wishes, but as the old saying goes: be careful what you wish for, it might come true..."
+  },
+  {
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "genre": "children",
+    "isbn": "OL37044748M",
+    "image": "https://covers.openlibrary.org/b/olid/OL37044748M-M.jpg",
+    "price": 22.99,
+    "inStock": true,
+    "description": "A ten-year-old orphan comes to live in a lonely house on the Yorkshire moors where she discovers an invalid cousin and the mysteries of a locked garden."
+  },
+  {
+    "title": "The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "genre": "children",
+    "isbn": "OL34596309M",
+    "image": "https://covers.openlibrary.org/b/olid/OL34596309M-M.jpg",
+    "price": 16.99,
+    "inStock": false,
+    "description": "Mark Twain created the memorable characters Tom Sawyer and Huckleberry Finn drawing from the experiences of boys he grew up with in Missouri. Set by the Mississippi River in the 1840's, it follows these boys as they get into predicament after predicament. Tom's classic whitewashing of the fence has become part of American legend, and the book paints a nostalgic picture of life in the middle of the nineteenth century. Tom runs away from home to an island in the river, chases Injun Joe and his treasure, and even gets trapped in a cave for days with Becky Thatcher. The book is one of Twain's most beloved stories."
+  },
+  {
+    "title": "David Copperfield",
+    "author": "Charles Dickens",
+    "genre": "children",
+    "isbn": "OL9170447M",
+    "image": "https://covers.openlibrary.org/b/olid/OL9170447M-M.jpg",
+    "price": 9.99,
+    "inStock": true,
+    "description": "T adds to the charm of this book to remember that it is virtually a picture of the author's own boyhood. It is an excellent picture of the life of a struggling English youth in the middle of the last century. The pictures of Canterbury and London are true pictures and through these pages walk one of Dickens' wonderful processions of characters, quaint and humorous, villainous and tragic. Nobody cares for Dickens heroines, least of all for Dora, but take it all in al, l this book is enjoyed by young people more than any other of the great novelist. After having read this you will wish to read Nicholas Nickleby for its mingling of pathos and humor, Martin Chuzzlewit for its pictures of American life as seen through English eyes, and Pickwick Papers for its crude but boisterous humor."
+  },
+  {
+    "title": "The Old Curiosity Shop",
+    "author": "Charles Dickens",
+    "genre": "children",
+    "isbn": "OL13713582M",
+    "image": "https://covers.openlibrary.org/b/olid/OL13713582M-M.jpg",
+    "price": 9.99,
+    "inStock": true,
+    "description": "The sensational bestselling story of Little Nell, the beautiful child thrown into a shadowy, terrifying world, seems to belong less to the history of the Victorian novel than to folklore, fairy tale, or myth. The sorrows of Nell and her grandfather are offset by Dickens's creation of a dazzling contemporary world inhabited by some of his most brilliantly drawn characters—the eloquent ne'er-do-well Dick Swiveller; the hungry maid known as the \"Marchioness\"; the mannish lawyer Sally Brass; Quilp's brow-beaten mother-in-law; and Quilp himself, the lustful, vengeful dwarf, whose demonic energy makes a vivid counterpoint to Nell's purity."
+  },
+  {
+    "title": "The Lost World",
+    "author": "Arthur Conan Doyle",
+    "genre": "children",
+    "isbn": "OL22885694M",
+    "image": "https://covers.openlibrary.org/b/olid/OL22885694M-M.jpg",
+    "price": 8.99,
+    "inStock": true,
+    "description": "Journalist Ed Malone is looking for an adventure, and that's exactly what he finds when he meets the eccentric Professor Challenger - an adventure that leads Malone and his three companions deep into the Amazon jungle, to a lost world where dinosaurs roam free."
+  },
+  {
+    "title": "The Story of the Treasure Seekers",
+    "author": "Edith Nesbit",
+    "genre": "children",
+    "isbn": "OL43818814M",
+    "image": "https://covers.openlibrary.org/b/olid/OL43818814M-M.jpg",
+    "price": 12.99,
+    "inStock": true,
+    "description": "The six Bastable children try to restore their family's fortune using a variety of schemes taken from books, including finding buried treasure, rescuing someone from bandits, and starting a newspaper."
+  },
+  {
+    "title": "It's the Great Pumpkin, Charlie Brown",
+    "author": "Charles M. Schulz",
+    "genre": "comics",
+    "isbn": "OL5546003M",
+    "image": "https://covers.openlibrary.org/b/olid/OL5546003M-M.jpg",
+    "price": 7.99,
+    "inStock": true,
+    "description": "Linus waits for the Great Pumpkin, Snoopy has a run in with the Red Baron, and all Charlie Brown gets for trick-or-treat is a rock."
+  },
+  {
+    "title": "Comics",
+    "author": "Zhanming Huang",
+    "genre": "comics",
+    "isbn": "OL13060666M",
+    "image": "https://covers.openlibrary.org/b/olid/OL13060666M-M.jpg",
+    "price": 14.99,
+    "inStock": true,
+    "description": "not very good, and boring, also blurry."
+  },
+  {
+    "title": "Dragman",
+    "author": "Steven Appleby",
+    "genre": "comics",
+    "isbn": "OL27945782M",
+    "image": "https://covers.openlibrary.org/b/olid/OL27945782M-M.jpg",
+    "price": 6.99,
+    "inStock": true,
+    "description": "Dragman tells the story of August Crimp, a man who has superpowers when he puts on women's clothes. August loves wearing a dress but is deeply ashamed of his compulsion and terrified of rejection should it ever come out. So he tells no one. Not even his wife. But then one day a little girl falls from the rooftop cafe at the Art Museum and August has no choice but to fly and save her - an event witnessed by hundreds of people.\r\n\r\nAnd August Crimp's life is never the same again.\r\n\r\nDragman is Steven Appleby's first long-form graphic thriller. Inspired by the superhero comics he read as a child and informed by his own secret life as a transvestite, Steven Appleby has created a multi-layered, tightly plotted, cleverly structured novel with a compulsive forward drive in which August battles greed, evil and his own self-doubt in a fight to save himself, his marriage - and the human soul. A real page-turner, Dragman brims with humanity, subtlety and wit - plus plenty of Steven Appleby's oblique and absurdly imaginative musings on 'what is life really all about?'\r\n\r\nFans of Steven Appleby's unmistakable drawing style, as seen in his many books and in comic strips such as Captain Star (NME, Observer), Small Birds Singing (The Times), and Loomus (Guardian), will not be disappointed."
+  },
+  {
+    "title": "Queer",
+    "author": "Meg-John Barker",
+    "genre": "comics",
+    "isbn": "OL26889754M",
+    "image": "https://covers.openlibrary.org/b/olid/OL26889754M-M.jpg",
+    "price": 16.99,
+    "inStock": true,
+    "description": "Activist-academic Meg-John Barker and cartoonist Jules Scheele illuminate the histories of queer thought and LGBTQ+ action in this groundbreaking non-fiction graphic novel.\r\n\r\nFrom identity politics and gender roles to privilege and exclusion, Queer explores how we came to view sex, gender and sexuality in the ways that we do; how these ideas get tangled up with our culture and our understanding of biology, psychology and sexology; and how these views have been disputed and challenged.\r\n\r\nAlong the way we look at key landmarks which shift our perspective of what’s ‘normal’ – Alfred Kinsey’s view of sexuality as a spectrum, Judith Butler’s view of gendered behaviour as a performance, the play Wicked, or moments in Casino Royale when we’re invited to view James Bond with the kind of desiring gaze usually directed at female bodies in mainstream media.\r\n\r\nPresented in a brilliantly engaging and witty style, this is a unique portrait of the universe of queer thinking."
+  },
+  {
+    "title": "Un autre regard #1-2",
+    "author": "Emma Gutierrez",
+    "genre": "comics",
+    "isbn": "OL32323001M",
+    "image": "https://covers.openlibrary.org/b/olid/OL32323001M-M.jpg",
+    "price": 8.99,
+    "inStock": false,
+    "description": "No description available"
+  },
+  {
+    "title": "When Stars Are Scattered",
+    "author": "Victoria Jamieson",
+    "genre": "comics",
+    "isbn": "OL28088318M",
+    "image": "https://covers.openlibrary.org/b/olid/OL28088318M-M.jpg",
+    "price": 6.99,
+    "inStock": true,
+    "description": "No description available"
+  },
+  {
+    "title": "Gender Queer",
+    "author": "Maia Kobabe",
+    "genre": "comics",
+    "isbn": "OL28900544M",
+    "image": "https://covers.openlibrary.org/b/olid/OL28900544M-M.jpg",
+    "price": 14.99,
+    "inStock": true,
+    "description": "In 2014, Maia Kobabe, who uses e/em/eir pronouns, thought that a comic of reading statistics would be the last autobiographical comic e would ever write. At the time, it was the only thing e felt comfortable with strangers knowing about em. Now, Gender Queer is here. Maia's intensely cathartic autobiography charts eir journey of self-identity, which includes the mortification and confusion of adolescent crushes, grappling with how to come out to family and society, bonding with friends over erotic gay fanfiction, and facing the trauma and fundamental violation of pap smears. \r\n\r\nStarted as a way to explain to eir family what it means to be nonbinary and asexual, Gender Queer is more than a personal story: it is a useful and touching guide on gender identity―what it means and how to think about it―for advocates, friends, and humans everywhere."
+  },
+  {
+    "title": "Yukon Ho!",
+    "author": "Bill Watterson",
+    "genre": "comics",
+    "isbn": "OL2070394M",
+    "image": "https://covers.openlibrary.org/b/olid/OL2070394M-M.jpg",
+    "price": 13.99,
+    "inStock": false,
+    "description": "No description available"
+  },
+  {
+    "title": "Batman",
+    "author": "Craig Shaw Gardner",
+    "genre": "comics",
+    "isbn": "OL24201138M",
+    "image": "https://covers.openlibrary.org/b/olid/OL24201138M-M.jpg",
+    "price": 22.99,
+    "inStock": true,
+    "description": "No description available"
+  },
+  {
+    "title": "The great comic book heroes",
+    "author": "Jules Feiffer",
+    "genre": "comics",
+    "isbn": "OL8619145M",
+    "image": "https://covers.openlibrary.org/b/olid/OL8619145M-M.jpg",
+    "price": 13.99,
+    "inStock": true,
+    "description": "Analyzes origins and developments of the peculiarly indigenous art form. Includes 128 pages of accurate color reproductions of the most famous heroes of all."
+  },
+  {
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "genre": "travel",
+    "isbn": "OL7062714M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7062714M-M.jpg",
+    "price": 18.99,
+    "inStock": false,
+    "description": "Adventures of Huckleberry Finn or as it is known in more recent editions, The Adventures of Huckleberry Finn, is a novel by American author Mark Twain, which was first published in the United Kingdom in December 1884 and in the United States in February 1885.\r\n\r\nCommonly named among the Great American Novels, the work is among the first in major American literature to be written throughout in vernacular English, characterized by local color regionalism. It is told in the first person by Huckleberry \"Huck\" Finn, the narrator of two other Twain novels (Tom Sawyer Abroad and Tom Sawyer, Detective) and a friend of Tom Sawyer. It is a direct sequel to The Adventures of Tom Sawyer."
+  },
+  {
+    "title": "Frankenstein or The Modern Prometheus",
+    "author": "Mary Shelley",
+    "genre": "travel",
+    "isbn": "OL35649409M",
+    "image": "https://covers.openlibrary.org/b/olid/OL35649409M-M.jpg",
+    "price": 14.99,
+    "inStock": true,
+    "description": "*Frankenstein; or, The Modern Prometheus* is an 1818 novel written by English author Mary Shelley. Frankenstein tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment. Shelley started writing the story when she was 18, and the first edition was published anonymously in London on 1 January 1818, when she was 20. Her name first appeared in the second edition, which was published in Paris in 1821."
+  },
+  {
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "author": "Mark Twain",
+    "genre": "travel",
+    "isbn": "OL6338772M",
+    "image": "https://covers.openlibrary.org/b/olid/OL6338772M-M.jpg",
+    "price": 16.99,
+    "inStock": true,
+    "description": "A blow on the head transports a Yankee to 528 A.D. where he proceeds to modernize King Arthur's kingdom by organizing a school system, constructing telephone lines, and inventing the printing press."
+  },
+  {
+    "title": "Three Men in a Boat (to say nothing of the dog)",
+    "author": "Jerome Klapka Jerome",
+    "genre": "travel",
+    "isbn": "OL23348263M",
+    "image": "https://covers.openlibrary.org/b/olid/OL23348263M-M.jpg",
+    "price": 9.99,
+    "inStock": false,
+    "description": "Three feckless young men take a rowing holiday on the Thames river in 1888. \r\n\r\nReferenced by [Robert A. Heinlein][1] in [Have Spacesuit Will Travel][2] as Kip's father's favorite book. Inspired [To Say Nothing of the Dog][3] by [Connie Willis][4].\r\n\r\n\r\n  [1]: https://openlibrary.org/authors/OL28641A/Robert_A._Heinlein\r\n  [2]: https://openlibrary.org/works/OL59727W/Have_Space_Suit_Will_Travel\r\n  [3]: https://openlibrary.org/works/OL14858398W/To_Say_Nothing_of_the_Dog_or_how_we_found_the_bishop's_bird_stump_at_last#about/about\r\n  [4]: https://openlibrary.org/authors/OL20934A/Connie_Willis"
+  },
+  {
+    "title": "The Prisoner of Zenda",
+    "author": "Anthony Hope",
+    "genre": "travel",
+    "isbn": "OL7357137M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7357137M-M.jpg",
+    "price": 7.99,
+    "inStock": false,
+    "description": "An adventure novel, originally published in 1894, set in the fictitious European Kingdom of Ruritania. An English tourist is persuaded to impersonate the new king after he is abducted before he can be crowned. This act draws upon him the wrath of the Prince who has had the king abducted and his partner in crime the villainous Rupert of Hentzau."
+  },
+  {
+    "title": "The Alhambra",
+    "author": "Washington Irving",
+    "genre": "travel",
+    "isbn": "OL13992397M",
+    "image": "https://covers.openlibrary.org/b/olid/OL13992397M-M.jpg",
+    "price": 9.99,
+    "inStock": true,
+    "description": "Verhalen over het gebouwencomplex in Granada, dat eigendom was van de laatste islamitische vorsten in Spanje."
+  },
+  {
+    "title": "Heart of Darkness",
+    "author": "Joseph Conrad",
+    "genre": "travel",
+    "isbn": "OL35601698M",
+    "image": "https://covers.openlibrary.org/b/olid/OL35601698M-M.jpg",
+    "price": 17.99,
+    "inStock": false,
+    "description": "Heart of Darkness (1899) is a novella by Polish-English novelist Joseph Conrad, about a voyage up the Congo River into the Congo Free State, in the heart of Africa, by the story's narrator Charles Marlow. Marlow tells his story to friends aboard a boat anchored on the River Thames. Joseph Conrad is one of the greatest English writers, and Heart of Darkness is considered his best.  His readers are brought to face our psychological selves to answer, ‘Who is the true savage?’. Originally published in 1902, Heart of Darkness remains one of this century’s most enduring works of fiction. Written several years after Joseph Conrad’s grueling sojourn in the Belgian Congo, the novel is a complex meditation on colonialism, evil, and the thin line between civilization and barbarity."
+  },
+  {
+    "title": "Le Tour du Monde en Quatre-Vingts Jours",
+    "author": "Jules Verne",
+    "genre": "travel",
+    "isbn": "OL7050533M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7050533M-M.jpg",
+    "price": 15.99,
+    "inStock": false,
+    "description": "Phileas Fogg, a very punctual man had broken into an argument while conversing about the recent bank robbery. To keep his word of proving that he would travel around the world in 80 days and win the bet, he sets on a long trip, where he is joined by a few other people on the way. A wonderful adventure is about to begin!"
+  },
+  {
+    "title": "Roughing It",
+    "author": "Mark Twain",
+    "genre": "travel",
+    "isbn": "OL6970936M",
+    "image": "https://covers.openlibrary.org/b/olid/OL6970936M-M.jpg",
+    "price": 16.99,
+    "inStock": true,
+    "description": "Samuel Langhorne Clemens (1835-1910), better known as \"Mark Twain,\" left Missouri in 1861 to work with his brother, the newly appointed Secretary of the Nevada Territory. Once settled in Nevada, Clemens fell victim to gold fever and went to the Humboldt mines. When prospecting lost its attractions, Clemens found work as a reporter in Virginia City. In 1864, Clemens moved to California and worked as a reporter in San Francisco. It was there that he began to establish a nationwide reputation as a humorist. Roughing it (1891), first published in 1872, is his account of his adventures in the Far West. He devotes twenty chapters to the overland journey by boat and stagecoach to Carson City, including several chapters on the Mormons. Next come chronicles of mining life and local politics and crime in Virginia City and San Francisco and even a junket to the Hawaiian Islands. The book closes with his return to San Francisco and his introduction to the lecture circuit."
+  },
+  {
+    "title": "Os Lusíadas",
+    "author": "Luís de Camões",
+    "genre": "travel",
+    "isbn": "OL13523282M",
+    "image": "https://covers.openlibrary.org/b/olid/OL13523282M-M.jpg",
+    "price": 18.99,
+    "inStock": true,
+    "description": "*Os Lusíadas*, usually translated as *The Lusiads*, is a Portuguese epic poem written by Luís de Camões and first published in 1572. It is widely regarded as the most important work of Portuguese-language literature and is frequently compared to Virgil's *Aeneid*. The work celebrates the discovery of a sea route to India by the Portuguese explorer Vasco da Gama (1469–1524). The ten cantos of the poem are in ottava rima and total 1,102 stanzas.\r\n\r\n----------\r\n\r\nOs Lusíadas é uma obra poética do escritor Luís Vaz de Camões, considerada a epopeia portuguesa por excelência. Provavelmente concluída em 1556, foi publicada pela primeira vez em 1572 no período literário do classicismo, três anos após o regresso do autor do Oriente.\r\nA obra é composta de dez cantos, 1102 estrofes que são oitavas decassílabas, sujeitas ao esquema rímico fixo AB AB AB CC – oitava rima camoniana. A acção central é a descoberta do caminho marítimo para a Índia por Vasco da Gama, à volta da qual se vão descrevendo outros episódios da história de Portugal, glorificando o povo português."
+  },
+  {
+    "title": "The Art of War",
+    "author": "孙武",
+    "genre": "religion",
+    "isbn": "OL8784104M",
+    "image": "https://covers.openlibrary.org/b/olid/OL8784104M-M.jpg",
+    "price": 9.99,
+    "inStock": true,
+    "description": "The Art of War is an ancient Chinese military treatise dating from the Late Spring and Autumn Period. The work, which is attributed to the ancient Chinese military strategist Sun Tzu"
+  },
+  {
+    "title": "Divina Commedia",
+    "author": "Dante Alighieri",
+    "genre": "religion",
+    "isbn": "OL14081259M",
+    "image": "https://covers.openlibrary.org/b/olid/OL14081259M-M.jpg",
+    "price": 7.99,
+    "inStock": true,
+    "description": "De goddelijke komedie is de beschrijving van een denkbeeldige tocht door het hiernamaals. Zij heeft drie delen: de hel, het vagevuur en het paradijs en ieder van deze delen heeft drieëndertig zangen van niet geheel gelijke lengte, terwijl aan het eerste deel nog een inleidende zang voorafgaat, waardoor het totale aantal van de zang honderd bedraagt. Dit aantal is geen toevalligheid. Het getal honderd gold in de middeleeuwse getallensymboliek, waarvan ook Dante een naarstig beoefenaar was, als het zinnebeeld van de volmaaktheid. Drie is het getal van de personen der heilige drie-eenheid, drieëndertig is het aantal jaren van Jezus' aardse leven. \r\n\r\nIn de eerste zang van De goddelijke komedie is Dante verdwaald in een donker woud en terwijl hij wanhopig naar hulp uitziet ontmoet hij daar de Latijnse dichter Vergilius. Samen verlaten zij het aardoppervlak en dalen af naar de hel, die voorgesteld wordt als een systeem van concentrische, zich steeds verder vernauwende kringen, een soort geringde trechter, die tenslotte in het middelpunt van de aarde eindigt. Daar zit Lucifer in het ijs, met zijn hoofd naar ons halfrond toe en met zijn voeten naar het zuidelijk halfrond gekeerd. \r\n\r\nTussen het ijs en Lucifer vinden Dante en Vergilius een weg langs het middelpunt van de aarde en stijgen dan weer op naar het zuidelijk halfrond. Zij bereiken een eiland, waar zich een hoge berg verheft, de louteringsberg van het vagevuur, waar de zielen die in staat van genade zijn gestorven, maar hun aardse schulden nog niet hebben uitgeboet, geleidelijk gelouterd worden en opstijgen naar de hemelse zaligheid. Deze berg, een soort tegenbeeld van de hel, heeft langs zijn flanken steeds nauwer wordende gaanderijen. Daarlangs stijgen Dante en Vergilius opwaarts naar de top, waar zich het aardse paradijs bevindt. \r\n\r\nWanneer zij daar zijn aangekomen, wordt Vergilius als Dante's geleider afgelost door Beatrice. Samen met Beatrice stijgt Dante nu opwaarts naar het paradijs. De eeuwige woonplaats van de zaligen bestraald door het licht van God."
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "religion",
+    "isbn": "OL35373336M",
+    "image": "https://covers.openlibrary.org/b/olid/OL35373336M-M.jpg",
+    "price": 16.99,
+    "inStock": true,
+    "description": "Sink your teeth into the ageless tale of the famous vampire Count Dracula.\r\n\r\nDracula first horrified readers over 125 years ago. Today, this original gothic masterpiece includes a detailed exploration into the 1897 classic vampire novel and its author, Bram Stoker.\r\n\r\nIn this bonus introduction,\r\n\r\nLearn about Stoker’s early life, his colorful career, and the famous friends he made leading up to the creation of his magnum opus, Dracula.\r\nTune into the speculative theories of Stoker’s personal life and his deeply repressed homosexual tendencies.\r\nDelve deep into the folklore and mysticism that inspired Dracula, the masterful work itself, and the lasting impact it continues to have on pop culture.\r\nThis annotated introduction accompanying this classic novel is essential for all fans of Bram Stoker’s Dracula. I welcome you, the reader, as Count Dracula beckoned Jonathan Harker:\r\n\r\n“Welcome to my house. Enter freely and at your own free will.”"
+  },
+  {
+    "title": "The Man Who Was Thursday",
+    "author": "Gilbert Keith Chesterton",
+    "genre": "religion",
+    "isbn": "OL22885940M",
+    "image": "https://covers.openlibrary.org/b/olid/OL22885940M-M.jpg",
+    "price": 17.99,
+    "inStock": true,
+    "description": "Can you trust yourself when you don't know who you are? Syme uses his new acquaintance to go undercover in Europe's Central Anarchist Council and infiltrate their deadly mission, even managing to have himself voted to the position of 'Thursday'. In a park in London, secret policeman Gabriel Syme strikes up a conversation with an anarchist. Sworn to do his duty,When Syme discovers another undercover policeman on the Council, however, he starts to question his role in their operations. And as a desperate chase across Europe begins, his confusion grows, as well as his confidence in his ability to outwit his enemies.But he has still to face the greatest terror that the Council has - its leader: a man named Sunday, whose true nature is worse than Syme could ever have imagined ..."
+  },
+  {
+    "title": "De la démocratie en Amérique",
+    "author": "Alexis de Tocqueville",
+    "genre": "religion",
+    "isbn": "OL9243061M",
+    "image": "https://covers.openlibrary.org/b/olid/OL9243061M-M.jpg",
+    "price": 13.99,
+    "inStock": false,
+    "description": "A contemporary study of the early American nation and its evolving democracy, from a French aristocrat and sociologist.\r\n\r\nIn 1831 Alexis de Tocqueville, a young French aristocrat and ambitious civil servant, set out from post-revolutionary France on a journey across America that would take him 9 months and cover 7,000 miles. The result was Democracy in America, a subtle and prescient analysis of the life and institutions of 19th-century America. Tocqueville looked to the flourishing democratic system in America as a possible model for post-revolutionary France, believing that the egalitarian ideals it enshrined reflected the spirit of the age and even divine will. His study of the strengths and weaknesses of an evolving democratic society has been quoted by every American president since Eisenhower, and remains a key point of reference for any discussion of the American nation or the democratic system."
+  },
+  {
+    "title": "Pensées",
+    "author": "Blaise Pascal",
+    "genre": "religion",
+    "isbn": "OL24216437M",
+    "image": "https://covers.openlibrary.org/b/olid/OL24216437M-M.jpg",
+    "price": 9.99,
+    "inStock": false,
+    "description": "No description available"
+  },
+  {
+    "title": "Imitation of Christ",
+    "author": "Thomas à Kempis",
+    "genre": "religion",
+    "isbn": "OL14008279M",
+    "image": "https://covers.openlibrary.org/b/olid/OL14008279M-M.jpg",
+    "price": 12.99,
+    "inStock": true,
+    "description": "Classic Christian devotional"
+  },
+  {
+    "title": "Paradise Lost",
+    "author": "John Milton",
+    "genre": "religion",
+    "isbn": "OL20425649M",
+    "image": "https://covers.openlibrary.org/b/olid/OL20425649M-M.jpg",
+    "price": 22.99,
+    "inStock": false,
+    "description": "John Milton's Paradise Lost is one of the greatest epic poems in the English language. It tells the story of the Fall of Man, a tale of immense drama and excitement, of rebellion and treachery, of innocence pitted against corruption, in which God and Satan fight a bitter battle for control of mankind's destiny. The struggle rages across three worlds - heaven, hell, and earth - as Satan and his band of rebel angels plot their revenge against God. At the center of the conflict are Adam and Eve, who are motivated by all too human temptations but whose ultimate downfall is unyielding love.\r\n\r\nMarked by Milton's characteristic erudition, Paradise Lost is a work epic both in scale and, notoriously, in ambition. For nearly 350 years, it has held generation upon generation of audiences in rapt attention, and its profound influence can be seen in almost every corner of Western culture."
+  },
+  {
+    "title": "The Rainbow",
+    "author": "D. H. Lawrence",
+    "genre": "religion",
+    "isbn": "OL7025375M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7025375M-M.jpg",
+    "price": 7.99,
+    "inStock": false,
+    "description": "(Brangwen Family #1) \r\n\r\nLush with imagery, this is the story of three generations of Brangwen women living during the decline of English rural life. Banned upon publication, it explores the most taboo subjects of its time: marriage, physical love, and one family's sexual mores."
+  },
+  {
+    "title": "Saint Francis of Assisi",
+    "author": "Gilbert Keith Chesterton",
+    "genre": "religion",
+    "isbn": "OL7992294M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7992294M-M.jpg",
+    "price": 12.99,
+    "inStock": true,
+    "description": "G.K. Chesterton lends his witty, astute and sardonic prose to the much loved figure of Saint Francis of Assis. Grounding the man behind the myth he states \"however wild and romantic his gyrations might appear to many, [Francis] always hung on to reason by one invisible and indestructible hair....The great saint was sane....He was not a mere eccentric because he was always turning towards the center and heart of the maze; he took the queerest and most zigzag shortcuts through the wood, but he was always going home.\"Review: \"his opinions shine from every page. The reader is rewarded with many fresh perspectives on Francis...\" -- Franciscan, May 2002"
+  },
+  {
+    "title": "Hard Times",
+    "author": "Charles Dickens",
+    "genre": "education",
+    "isbn": "OL24364955M",
+    "image": "https://covers.openlibrary.org/b/olid/OL24364955M-M.jpg",
+    "price": 22.99,
+    "inStock": true,
+    "description": "Dickens scathing portrait of Victorian industrial society and its misapplied utilitarian philosophy, Hard Times features schoolmaster Thomas Gradgrind, one of his most richly dimensional, memorable characters. Filled with the details and wonders of small-town life, it is also a daring novel of ideas and ultimately, a celebration of love, hope, and limitless possibilities of the imagination."
+  },
+  {
+    "title": "A Midsummer Night's Dream",
+    "author": "William Shakespeare",
+    "genre": "education",
+    "isbn": "OL24594641M",
+    "image": "https://covers.openlibrary.org/b/olid/OL24594641M-M.jpg",
+    "price": 11.99,
+    "inStock": true,
+    "description": "One night two young couples run into an enchanted forest in an attempt to escape their problems. But these four humans do not realize that the forest is filled with fairies and hobgoblins who love making mischief. When Oberon, the Fairy King, and his loyal hobgoblin servant, Puck, intervene in human affairs, the fate of these young couples is magically and hilariously transformed. Like a classic fairy tale, this retelling of William Shakespeare's most beloved comedy is perfect for older readers who will find much to treasure and for younger readers who will love hearing the story read aloud."
+  },
+  {
+    "title": "Kim",
+    "author": "Rudyard Kipling",
+    "genre": "education",
+    "isbn": "OL9160809M",
+    "image": "https://covers.openlibrary.org/b/olid/OL9160809M-M.jpg",
+    "price": 15.99,
+    "inStock": true,
+    "description": "Kim is Rudyard Kipling's story of an orphan born in colonial India and torn between love for his native India and the demands of Imperial loyalty to his Irish-English heritage and to the British Secret Service. Long recognized as Kipling's finest work, Kim was a key factor in his winning the Nobel Prize for Literature in 1907."
+  },
+  {
+    "title": "πολιτεία",
+    "author": "Πλάτων",
+    "genre": "education",
+    "isbn": "OL40296849M",
+    "image": "https://covers.openlibrary.org/b/olid/OL40296849M-M.jpg",
+    "price": 6.99,
+    "inStock": true,
+    "description": "The Republic is Plato's most famous work and one of the seminal texts of Western philosophy and politics. The characters in this Socratic dialogue - including Socrates himself - discuss whether the just or unjust man is happier. They are the philosopher-kings of imagined cities and they also discuss the nature of philosophy and the soul among other things."
+  },
+  {
+    "title": "The Merchant of Venice",
+    "author": "William Shakespeare",
+    "genre": "education",
+    "isbn": "OL25398118M",
+    "image": "https://covers.openlibrary.org/b/olid/OL25398118M-M.jpg",
+    "price": 11.99,
+    "inStock": true,
+    "description": "In this lively comedy of love and money in sixteenth-century Venice, Bassanio wants to impress the wealthy heiress Portia but lacks the necessary funds. He turns to his merchant friend, Antonio, who is forced to borrow from Shylock, a Jewish moneylender. When Antonio's business falters, repayment becomes impossible--and by the terms of the loan agreement, Shylock is able to demand a pound of Antonio's flesh. Portia cleverly intervenes, and all ends well (except of course for Shylock)."
+  },
+  {
+    "title": "Julius Caesar",
+    "author": "William Shakespeare",
+    "genre": "education",
+    "isbn": "OL26229526M",
+    "image": "https://covers.openlibrary.org/b/olid/OL26229526M-M.jpg",
+    "price": 15.99,
+    "inStock": true,
+    "description": "Presents the original text of Shakespeare's play side by side with a modern version, discusses the author and the theater of his time, and provides quizzes and other study activities."
+  },
+  {
+    "title": "Autobiography",
+    "author": "Benjamin Franklin",
+    "genre": "education",
+    "isbn": "OL7134689M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7134689M-M.jpg",
+    "price": 19.99,
+    "inStock": true,
+    "description": "Few men could compare to Benjamin Franklin. Virtually self-taught, he excelled as an athlete, a man of letters, a printer, a scientist, a wit, an inventor, an editor, and a writer, and he was probably the most successful diplomat in American history. David Hume hailed him as the first great philosopher and great man of letters in the New World.\r\n\r\nWritten initially to guide his son, Franklin's autobiography is a lively, spellbinding account of his unique and eventful life. Stylistically his best work, it has become a classic in world literature, one to inspire and delight readers everywhere."
+  },
+  {
+    "title": "Inferno",
+    "author": "Dante Alighieri",
+    "genre": "education",
+    "isbn": "OL24225696M",
+    "image": "https://covers.openlibrary.org/b/olid/OL24225696M-M.jpg",
+    "price": 10.99,
+    "inStock": false,
+    "description": "Dante, after becoming lost on the path of life, is led by Virgil into Hell to begin his journey back to the light of God."
+  },
+  {
+    "title": "Jude the Obscure",
+    "author": "Thomas Hardy",
+    "genre": "education",
+    "isbn": "OL40216055M",
+    "image": "https://covers.openlibrary.org/b/olid/OL40216055M-M.jpg",
+    "price": 23.99,
+    "inStock": false,
+    "description": "Hardy's last work of fiction, Jude the Obscure is also one of his most gloomily fatalistic, depicting the lives of individuals who are trapped by forces beyond their control. Jude Fawley, a poor villager, wants to enter the divinity school at Christminster. Sidetracked by Arabella Donn, an earthy country girl who pretends to be pregnant by him, Jude marries her and is then deserted. He earns a living as a stonemason at Christminster; there he falls in love with his independent-minded cousin, Sue Bridehead. Out of a sense of obligation, Sue marries the schoolmaster Phillotson, who has helped her. Unable to bear living with Phillotson, she returns to live with Jude and eventually bears his children out of wedlock. Their poverty and the weight of society's disapproval begin to take a toll on Sue and Jude; the climax occurs when Jude's son by Arabella hangs Sue and Jude's children and himself. In penance, Sue returns to Phillotson and the church. Jude returns to Arabella and eventually dies miserably. The novel's sexual frankness shocked the public, as did Hardy's criticisms of marriage, the university system, and the church. Hardy was so distressed by its reception that he wrote no more fiction, concentrating solely on his poetry.Please Note:  This book is easy to read in true text, not scanned images that can sometimes be difficult to decipher.  The Microsoft eBook has a contents page linked to the chapter headings for easy navigation. The Adobe eBook has bookmarks at chapter headings and is printable up to two full copies per year.  Both versions are text searchable."
+  },
+  {
+    "title": "A Vindication of Rights of Woman",
+    "author": "Mary Wollstonecraft",
+    "genre": "education",
+    "isbn": "OL8130853M",
+    "image": "https://covers.openlibrary.org/b/olid/OL8130853M-M.jpg",
+    "price": 10.99,
+    "inStock": false,
+    "description": "From Goodreads:\r\nWriting in an age when the call for the rights of man had brought revolution to America and France, Mary Wollstonecraft produced her own declaration of female independence in 1792. Passionate and forthright, A Vindication of the Rights of Woman attacked the prevailing view of docile, decorative femininity, and instead laid out the principles of emancipation: an equal education for girls and boys, an end to prejudice, and for women to become defined by their profession, not their partner. Mary Wollstonecraft's work was received with a mixture of admiration and outrage - Walpole called her 'a hyena in petticoats' - yet it established her as the mother of modern feminism."
+  },
+  {
+    "title": "Domestic medicine",
+    "author": "William Buchan M.D.",
+    "genre": "health",
+    "isbn": "OL23387875M",
+    "image": "https://covers.openlibrary.org/b/olid/OL23387875M-M.jpg",
+    "price": 23.99,
+    "inStock": false,
+    "description": "No description available"
+  },
+  {
+    "title": "The Science of Being Well",
+    "author": "Wallace D. Wattles",
+    "genre": "health",
+    "isbn": "OL8904873M",
+    "image": "https://covers.openlibrary.org/b/olid/OL8904873M-M.jpg",
+    "price": 16.99,
+    "inStock": false,
+    "description": "The Science of Being Great is from the author Wallace D. Wattles (1860 - 1911), whose work inspired the cult-phenomenon book and film \"The Secret\". He was a widely popular and pioneering writer in the self-help and success genres. According to Wattles each person has within themselves a Principle of Health. (The word Principle is used as meaning source.) The Principle of Health in a person, when in full constructive activity, causes all the voluntary functions of his life to be perfectly performed. It is the Principle of Health in a person which really works all healing, no matter what system."
+  },
+  {
+    "title": "Fit & well",
+    "author": "Thomas D. Fahey",
+    "genre": "health",
+    "isbn": "OL970161M",
+    "image": "https://covers.openlibrary.org/b/olid/OL970161M-M.jpg",
+    "price": 21.99,
+    "inStock": true,
+    "description": "No description available"
+  },
+  {
+    "title": "Wonder",
+    "author": "R. J. Palacio",
+    "genre": "health",
+    "isbn": "OL25025136M",
+    "image": "https://covers.openlibrary.org/b/olid/OL25025136M-M.jpg",
+    "price": 7.99,
+    "inStock": true,
+    "description": "Wonder is a children's novel written by R. J. Palacio,[2] published on 14 February 2012.\r\n\r\nR. J. Palacio wrote Wonder after an incident where her son noticed a girl with a severe facial difference and started to cry. Fearing he would react badly, Palacio attempted to remove her son from the situation so as not to upset the girl and her family but ended up worsening the situation. Natalie Merchant's song of the same name made her realize that the incident could illustrate a valuable lesson. Palacio was inspired by Merchant's lyrics and she began writing. She named the book directly after the song and used the song's chorus as the prologue of the first chapter."
+  },
+  {
+    "title": "Nutrition",
+    "author": "Lori A. Smolin",
+    "genre": "health",
+    "isbn": "OL7270905M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7270905M-M.jpg",
+    "price": 7.99,
+    "inStock": true,
+    "description": "No description available"
+  },
+  {
+    "title": "The pleasures of imagination",
+    "author": "Mark Akenside",
+    "genre": "health",
+    "isbn": "OL6778502M",
+    "image": "https://covers.openlibrary.org/b/olid/OL6778502M-M.jpg",
+    "price": 20.99,
+    "inStock": true,
+    "description": "The Pleasures of Imagination was first published in 1744: many editions followed, continuing to appear long after Akenside's death in 1771. The poem was to exercise a significant influence both upon Coleridge's thinking at an especially formative period, and upon Wordsworth's style as he began the prelude in 1798. This reissue of 1795 is introduced by the Unitarian poet Anna Laetitia Barbauld, Coleridge's predecessor as a follower of Joseph Priestly."
+  },
+  {
+    "title": "Nutrition & you : core concepts for good health",
+    "author": "Joan Salge Blake",
+    "genre": "health",
+    "isbn": "OL23861642M",
+    "image": "https://covers.openlibrary.org/b/olid/OL23861642M-M.jpg",
+    "price": 11.99,
+    "inStock": true,
+    "description": "No description available"
+  },
+  {
+    "title": "Fast Food Nation",
+    "author": "Eric Schlosser",
+    "genre": "health",
+    "isbn": "OL7469003M",
+    "image": "https://covers.openlibrary.org/b/olid/OL7469003M-M.jpg",
+    "price": 12.99,
+    "inStock": false,
+    "description": "To a degree both engrossing and alarming, the story of fast food is the story of postwar Amerca. Though created by a handful of mavericks, the fast food industry has triggered the homogenization of our society. Fast food has hastened the malling of our landscape, widened the chasm between rich and poor, fueled an epidemic of obesity, and propelled the juggernaut of American cultural imperialism abroad. That's a lengthy list of charges, but Eric Schlosser makes them stick with an artful mix of first-rate reportage, wry wit, and careful reasoning.\r\n\r\nSchlosser's myth-shattering survey stretches from the California subdivisions where the business was born to the industrial corridor along the New Jersey Turnpike where many of fast food's flavors are concocted. He hangs out with the teenagers who make the restaurants run and communes with those unlucky enough to hold America's most dangerous job -- meatpacker. He travels to Las Vegas for a giddily surreal franchisers' convention where Mikhail Gorbachev delivers the keynote address. He even ventures to England and Germany to clock the rate at which those countries are becoming fast food nations.\r\n\r\nAlong the way, Schlosser unearths a trove of fascinating, unsettling truths -- from the unholy alliance between fast food and Hollywood to the seismic changes the industry has wrought in food production, popular culture, and even real estate. He also uncovers the fast food chains' efforts to reel in the youngest, most susceptible consumers even while they hone their institutionalized exploitation of teenagers and minorities. Schlosser then turns a critical eye toward the hot topic of globalization -- a phenomenon launched by fast food.\r\n\r\nFAST FOOD NATION is a groundbreaking work of investigation and cultural history that may change the way America thinks about the way it eats."
+  },
+  {
+    "title": "Science and health",
+    "author": "Mary Baker Eddy",
+    "genre": "health",
+    "isbn": "OL1128316M",
+    "image": "https://covers.openlibrary.org/b/olid/OL1128316M-M.jpg",
+    "price": 17.99,
+    "inStock": false,
+    "description": "This work is the companion of The Bible, and together, comprise the Pastor of Christian Science Churches worldwide."
+  },
+  {
+    "title": "Sane Sex Life and Sane Sex Living",
+    "author": "Harland William Long",
+    "genre": "health",
+    "isbn": "OL11977835M",
+    "image": "https://covers.openlibrary.org/b/olid/OL11977835M-M.jpg",
+    "price": 6.99,
+    "inStock": false,
+    "description": "No description available"
+  }
+]
