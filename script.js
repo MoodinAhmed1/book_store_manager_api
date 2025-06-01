@@ -147,6 +147,7 @@ function render(bookArray) {
                 document.getElementById('modalPrice').textContent = book.price.toFixed(2);
                 document.getElementById('modalISBN').textContent = book.isbn;
                 document.getElementById('modalStock').textContent = book.inStock;
+                document.getElementById('add-to-cart').onclick = () => addToCart(book);
             });
         infoDiv.append(viewMoreDiv);
 
@@ -177,39 +178,39 @@ function render(bookArray) {
 }
     
 function filterBooks() {
-const query = document.getElementById("searchInput").value.toLowerCase();
-const genre = document.getElementById("genreSelect").value;
-const inStockOnly = document.getElementById("inStock").checked;
-const minPrice = parseFloat(document.getElementById("minPrice").value);
-const maxPrice = parseFloat(document.getElementById("maxPrice").value);
+    const query = document.getElementById("searchInput").value.toLowerCase();
+    const genre = document.getElementById("genreSelect").value;
+    const inStockOnly = document.getElementById("inStock").checked;
+    const minPrice = parseFloat(document.getElementById("minPrice").value);
+    const maxPrice = parseFloat(document.getElementById("maxPrice").value);
 
-const filtered = books.filter(book => {
-const matchesQuery = [book.title, book.author, book.genre, book.isbn]
-    .some(field => field.toLowerCase().includes(query));
-const matchesGenre = genre ? book.genre === genre : true;
-const matchesStock = inStockOnly ? book.inStock : true;
-const matchesPrice = (!isNaN(minPrice) ? book.price >= minPrice : true) &&
-                        (!isNaN(maxPrice) ? book.price <= maxPrice : true);
+    const filtered = books.filter(book => {
+        const matchesQuery = [book.title, book.author, book.genre, book.isbn]
+            .some(field => field.toLowerCase().includes(query));
+        const matchesGenre = genre ? book.genre === genre : true;
+        const matchesStock = inStockOnly ? book.inStock : true;
+        const matchesPrice = (!isNaN(minPrice) ? book.price >= minPrice : true) &&
+                                (!isNaN(maxPrice) ? book.price <= maxPrice : true);
 
-return matchesQuery && matchesGenre && matchesStock && matchesPrice;
-});
+        return matchesQuery && matchesGenre && matchesStock && matchesPrice;
+    });
 
-currentPage = 1;
-currentBookList = filtered;
-render(paginate(filtered, currentPage));
-renderPagination(filtered.length);
+    currentPage = 1;
+    currentBookList = filtered;
+    render(paginate(filtered, currentPage));
+    renderPagination(filtered.length);
 }
 
 function clearFilters() {
-document.getElementById("searchInput").value = "";
-document.getElementById("genreSelect").value = "";
-document.getElementById("inStock").checked = false;
-document.getElementById("minPrice").value = "";
-document.getElementById("maxPrice").value = "";
-currentPage = 1;
-currentBookList = books;
-render(paginate(books, currentPage));
-renderPagination(books.length);
+    document.getElementById("searchInput").value = "";
+    document.getElementById("genreSelect").value = "";
+    document.getElementById("inStock").checked = false;
+    document.getElementById("minPrice").value = "";
+    document.getElementById("maxPrice").value = "";
+    currentPage = 1;
+    currentBookList = books;
+    render(paginate(books, currentPage));
+    renderPagination(books.length);
 }
 
 // Event Listeners
@@ -225,24 +226,53 @@ function updateCartUI() {
     document.getElementById('cartCount').textContent = cart.length;
 
     const cartItems = document.getElementById('cartItems');
-    cartItems.innerHTML = '';
-    if (cart.length === 0) {
-        cartItems.innerHTML = '<p>Your cart is empty.</p>';
-        return;
-    }      
+    cartItems.innerHTML = '';     
 
-    cart.forEach(item => {
-    const div = document.createElement('div');
-    div.className = 'd-flex justify-content-between align-items-center border-bottom py-2';
-    div.innerHTML = `
-        <div>
-        <strong>${item.title}</strong><br>
-        <small>by ${item.author}</small>
-        </div>
-        <div>$${item.price.toFixed(2)}</div>
-    `;
-    cartItems.appendChild(div);
+    cart.forEach((item,i) => {
+        let div = document.createElement('div');            
+            div.className = 'd-flex align-items-center justify-content-between border-bottom mb-2 bg-light rounded p-2';
+            div.style.width = '100%';
+            div.style.maxWidth = '500px';
+            div.style.margin = '0 auto';
+            div.style.borderRadius = '5px'; // Rounded corners for a cleaner look
+            div.style.border = '1px solid #dee2e6'; // Subtle border for separation
+            div.style.marginBottom = '10px'; // Spacing between items
+        
+            div.innerHTML = `
+                <div class="d-flex align-items-center justify-content-between w-100">
+                    <div>
+                        <strong>${item.title}</strong><br>
+                        <small>by ${item.author}</small>
+                    </div>
+                    <div class="text-end me-3">
+                        <strong>$${item.price.toFixed(2)}</strong>
+                    </div>
+                </div>
+            `;
+
+        let deleteButton = document.createElement('button');
+        deleteButton.className = 'btn btn-danger btn-sm';
+        deleteButton.textContent = 'Remove';
+        deleteButton.onclick = () => {
+            cart.splice(i, 1);
+            localStorage.setItem('cart', JSON.stringify(cart));
+            updateCartUI();
+        };
+        div.appendChild(deleteButton);      
+        cartItems.appendChild(div);
     });
+
+    const totalPrice = cart.reduce((total, item) => total + item.price, 0);
+    document.getElementById('totalPrice').textContent = `Total: $${totalPrice.toFixed(2)}`;
+
+    const checkoutButton = document.getElementById('checkoutButton');
+    if (cart.length > 0) {
+        checkoutButton.style.display = 'block';
+        checkoutButton.onclick = () => checkout();
+    } else {
+        checkoutButton.style.display = 'none';
+        cartItems.innerHTML = '<p>Your cart is empty.</p>';
+    }
 }
 
 function addToCart(book) {

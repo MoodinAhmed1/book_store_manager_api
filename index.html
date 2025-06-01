@@ -24,7 +24,7 @@
 
     <div class="container">
         <div class="row mt-4">
-            <div class="col-xl-3 col-12">
+            <div class="col-xl-3">
                 <div class="filters">
                 <h2>Filters</h2>
                 <input type="text" id="searchInput" placeholder="Search..." />
@@ -71,7 +71,7 @@
                 <button onclick="clearFilters()">✖ Clear Filters</button>
             </div>
             </div>
-            <div class="col-xl-9 col-12">
+            <div class="col-xl-9">
                 <div class="books-row">
                 <div class="headerDiv d-flex flex-wrap">
                     <h1 class="p-3">Books</h1>
@@ -98,16 +98,16 @@
                 <div class="modal-body d-flex flex-column flex-md-row gap-3">
                     <img id="modalImage" src="" class="img-fluid" style="max-height: 300px;" alt="Book cover">
                     <div>
-                    <p id="modalAuthor" class="fw-semibold mb-1"></p>
-                    <p id="modalDescription"></p>
-                    <p><strong>Genre:</strong> <span id="modalGenre"></span></p>
-                    <p><strong>Price:</strong> $<span id="modalPrice"></span></p>
-                    <p><strong>ISBN:</strong> <span id="modalISBN"></span></p>
-                    <p><strong># in stock:</strong> <span id="modalStock"></span></p>
+                        <p id="modalAuthor" class="fw-semibold mb-1"></p>
+                        <p id="modalDescription"></p>
+                        <p><strong>Genre:</strong> <span id="modalGenre"></span></p>
+                        <p><strong>Price:</strong> $<span id="modalPrice"></span></p>
+                        <p><strong>ISBN:</strong> <span id="modalISBN"></span></p>
+                        <p><strong># in stock:</strong> <span id="modalStock"></span></p>
                     </div>
                 </div>
                 <div class="modal-footer justify-content-center">
-                    <button class="btn btn-dark"><i class="bi bi-cart-check-fill"></i> Add to cart</button>
+                    <button id="add-to-cart" class="btn btn-dark"><i class="bi bi-cart-check-fill"></i> Add to cart</button>
                 </div>
                 </div>
             </div>
@@ -122,10 +122,11 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
                     <div class="modal-body" id="cartItems">
-                    <!-- Cart items will go here -->
+                        <!-- Cart items will go here -->
                     </div>
                     <div class="modal-footer">
-                    <button class="btn btn-dark" onclick="checkout()">Checkout</button>
+                        <p id="totalPrice"></p>
+                        <button class="btn btn-dark" id="checkoutButton" onclick="checkout()">Checkout</button>
                     </div>
                 </div>
             </div>
