@@ -12,13 +12,40 @@
 <body>
     <div class="myContainer">
         <div class="row">
-            <div class="filter col-md-3">
+            <div class="filters col-md-3">
+                <h2>Filters</h2>
+                <input type="text" id="searchInput" placeholder="Search..." />
+                <small>Search by title, author, genre, or ISBN.</small>
 
+                <div>
+                    <input type="checkbox" id="inStock" />
+                    <label for="inStock">In Stock</label>
+                </div>
+
+                <div>
+                    <label for="genreSelect">Filter by Genre</label>
+                    <select id="genreSelect">
+                    <option value="">All</option>
+                    <option value="fiction">Fiction</option>
+                    <option value="nonfiction">Non-fiction</option>
+                    <option value="science">Science</option>
+                    <!-- Add more genres as needed -->
+                    </select>
+                </div>
+
+                <div>
+                    <label>Filter by Price (USD)</label>
+                    <input type="number" id="minPrice" placeholder="Min" />
+                    <input type="number" id="maxPrice" placeholder="Max" />
+                </div>
+
+                <button onclick="clearFilters()">✖ Clear Filters</button>
             </div>
+
             <div class="books-row col-md-9">
                 <h1 class="p-3">Books</h1>
                 <div class="row gx-3 gy-2">
-                    
+
                 </div>
             </div>
         </div>
